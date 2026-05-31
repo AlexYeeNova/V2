@@ -1,19 +1,32 @@
-2026/05/29-17:03:46.395 b2f4 Reusing MANIFEST D:\V2\data\browser_profile\shein_sg\Default\Session Storage/MANIFEST-000001
-2026/05/29-17:03:46.398 b2f4 Recovering log #21
-2026/05/29-17:03:46.399 b2f4 Level-0 table #24: started
-2026/05/29-17:03:46.404 b2f4 Level-0 table #24: 27962 bytes OK
-2026/05/29-17:03:46.404 b2f4 Recovering log #23
-2026/05/29-17:03:46.405 b2f4 Reusing old log D:\V2\data\browser_profile\shein_sg\Default\Session Storage/000023.log 
-2026/05/29-17:03:46.407 b2f4 Delete type=0 #21
-2026/05/29-17:03:46.408 b3f0 Compacting 5@0 + 1@1 files
-2026/05/29-17:03:46.412 b3f0 Generated table #25@0: 29 keys, 30696 bytes
-2026/05/29-17:03:46.412 b3f0 Compacted 5@0 + 1@1 files => 30696 bytes
-2026/05/29-17:03:46.413 b3f0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/05/29-17:03:46.413 b3f0 Delete type=2 #14
-2026/05/29-17:03:46.413 b3f0 Delete type=2 #16
-2026/05/29-17:03:46.413 b3f0 Delete type=2 #18
-2026/05/29-17:03:46.413 b3f0 Delete type=2 #20
-2026/05/29-17:03:46.413 b3f0 Delete type=2 #22
-2026/05/29-17:03:46.414 b3f0 Delete type=2 #24
-2026/05/29-17:05:33.022 b2f4 Level-0 table #27: started
-2026/05/29-17:05:33.039 b2f4 Level-0 table #27: 39280 bytes OK
+2026/05/31-14:20:17.277 c2ec Reusing MANIFEST D:\V2\data\browser_profile\shein_sg\Default\Session Storage/MANIFEST-000001
+2026/05/31-14:20:17.280 c2ec Recovering log #26
+2026/05/31-14:20:17.282 c2ec Reusing old log D:\V2\data\browser_profile\shein_sg\Default\Session Storage/000026.log 
+2026/05/31-14:22:07.203 c2ec Level-0 table #30: started
+2026/05/31-14:22:07.208 c2ec Level-0 table #30: 38826 bytes OK
+2026/05/31-14:22:07.210 c2ec Delete type=0 #26
+2026/05/31-14:23:45.830 c2ec Level-0 table #32: started
+2026/05/31-14:23:45.834 c2ec Level-0 table #32: 18500 bytes OK
+2026/05/31-14:23:45.835 c2ec Delete type=0 #29
+2026/05/31-14:23:46.678 c2ec Level-0 table #34: started
+2026/05/31-14:23:46.686 c2ec Level-0 table #34: 25306 bytes OK
+2026/05/31-14:23:46.689 c2ec Delete type=0 #31
+2026/05/31-14:23:46.690 c2ec Compacting 4@0 + 1@1 files
+2026/05/31-14:23:46.694 c2ec Generated table #35@0: 57 keys, 53546 bytes
+2026/05/31-14:23:46.694 c2ec Compacted 4@0 + 1@1 files => 53546 bytes
+2026/05/31-14:23:46.695 c2ec compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/31-14:23:46.695 c2ec Delete type=2 #25
+2026/05/31-14:23:46.695 c2ec Delete type=2 #27
+2026/05/31-14:23:46.695 c2ec Delete type=2 #30
+2026/05/31-14:23:46.695 c2ec Delete type=2 #32
+2026/05/31-14:23:46.695 c2ec Delete type=2 #34
+2026/05/31-14:25:37.274 d39c Level-0 table #37: started
+2026/05/31-14:25:37.295 d39c Level-0 table #37: 44238 bytes OK
+2026/05/31-14:25:37.297 d39c Delete type=0 #33
+2026/05/31-14:27:29.085 c2ec Level-0 table #39: started
+2026/05/31-14:27:29.094 c2ec Level-0 table #39: 32466 bytes OK
+2026/05/31-14:27:29.097 c2ec Delete type=0 #36
+2026/05/31-14:29:11.728 c2ec Level-0 table #41: started
+2026/05/31-14:29:11.732 c2ec Level-0 table #41: 27877 bytes OK
+2026/05/31-14:29:11.733 c2ec Delete type=0 #38
+2026/05/31-14:29:12.518 c7a8 Level-0 table #43: started
+2026/05/31-14:29:12.530 c7a8 Level-0 table #43: 24336 bytes OK
