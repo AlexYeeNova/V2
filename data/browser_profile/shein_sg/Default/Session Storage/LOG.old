@@ -1,0 +1,13 @@
+2026/05/29-17:01:44.061 a4cc Reusing MANIFEST D:\V2\data\browser_profile\shein_sg\Default\Session Storage/MANIFEST-000001
+2026/05/29-17:01:44.064 a4cc Recovering log #17
+2026/05/29-17:01:44.064 a4cc Level-0 table #20: started
+2026/05/29-17:01:44.068 a4cc Level-0 table #20: 23806 bytes OK
+2026/05/29-17:01:44.069 a4cc Recovering log #19
+2026/05/29-17:01:44.070 a4cc Reusing old log D:\V2\data\browser_profile\shein_sg\Default\Session Storage/000019.log 
+2026/05/29-17:01:44.071 a4cc Delete type=0 #17
+2026/05/29-17:03:27.376 a4cc Level-0 table #22: started
+2026/05/29-17:03:27.384 ad38 Current memtable full; waiting...
+2026/05/29-17:03:27.396 a4cc Level-0 table #22: 26875 bytes OK
+2026/05/29-17:03:27.400 a4cc Delete type=0 #19
+2026/05/29-17:03:27.401 a4cc Level-0 table #24: started
+2026/05/29-17:03:27.411 a4cc Level-0 table #24: 27962 bytes OK

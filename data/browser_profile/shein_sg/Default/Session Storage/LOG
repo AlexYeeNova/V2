@@ -1,0 +1,19 @@
+2026/05/29-17:03:46.395 b2f4 Reusing MANIFEST D:\V2\data\browser_profile\shein_sg\Default\Session Storage/MANIFEST-000001
+2026/05/29-17:03:46.398 b2f4 Recovering log #21
+2026/05/29-17:03:46.399 b2f4 Level-0 table #24: started
+2026/05/29-17:03:46.404 b2f4 Level-0 table #24: 27962 bytes OK
+2026/05/29-17:03:46.404 b2f4 Recovering log #23
+2026/05/29-17:03:46.405 b2f4 Reusing old log D:\V2\data\browser_profile\shein_sg\Default\Session Storage/000023.log 
+2026/05/29-17:03:46.407 b2f4 Delete type=0 #21
+2026/05/29-17:03:46.408 b3f0 Compacting 5@0 + 1@1 files
+2026/05/29-17:03:46.412 b3f0 Generated table #25@0: 29 keys, 30696 bytes
+2026/05/29-17:03:46.412 b3f0 Compacted 5@0 + 1@1 files => 30696 bytes
+2026/05/29-17:03:46.413 b3f0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/29-17:03:46.413 b3f0 Delete type=2 #14
+2026/05/29-17:03:46.413 b3f0 Delete type=2 #16
+2026/05/29-17:03:46.413 b3f0 Delete type=2 #18
+2026/05/29-17:03:46.413 b3f0 Delete type=2 #20
+2026/05/29-17:03:46.413 b3f0 Delete type=2 #22
+2026/05/29-17:03:46.414 b3f0 Delete type=2 #24
+2026/05/29-17:05:33.022 b2f4 Level-0 table #27: started
+2026/05/29-17:05:33.039 b2f4 Level-0 table #27: 39280 bytes OK
