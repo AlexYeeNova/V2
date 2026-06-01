@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <title>V2.8 分类页信号交叉分析报告</title>
+  <style>
+    body {
+      margin: 0;
+      background: #ffffff;
+      color: #222;
+      font-family: "Microsoft YaHei", Arial, sans-serif;
+      line-height: 1.6;
+    }
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 32px 24px 48px;
+    }
+    h1 {
+      margin: 0 0 20px;
+      font-size: 28px;
+      font-weight: 700;
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 20px;
+    }
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+    .metric-card,
+    .card {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      background: #fff;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+    }
+    .metric-card {
+      padding: 16px;
+    }
+    .metric-title {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 8px;
+    }
+    .metric-value {
+      font-size: 28px;
+      font-weight: 700;
+      text-align: right;
+    }
+    .metric-card span {
+      display: block;
+      text-align: right;
+      color: #777;
+      font-size: 13px;
+    }
+    .card {
+      padding: 18px;
+      margin-top: 18px;
+    }
+    .subtitle {
+      margin: -6px 0 12px;
+      color: #666;
+      font-size: 14px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+    th, td {
+      border: 1px solid #d8d8d8;
+      padding: 10px 12px;
+      vertical-align: middle;
+      word-break: break-word;
+    }
+    th {
+      background: #f2f3f5;
+      text-align: left;
+      font-weight: 700;
+    }
+    .num {
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+    .note {
+      color: #444;
+      background: #fafafa;
+    }
+    @media (max-width: 800px) {
+      .metrics {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <h1>V2.8 分类页信号交叉分析报告</h1>
+    <section class="metrics">
+      <div class="metric-card"><div class="metric-title">总商品数</div><div class="metric-value">995</div></div>
+      <div class="metric-card"><div class="metric-title">高曝光商品数</div><div class="metric-value">184</div><span>18.49%</span></div>
+      <div class="metric-card"><div class="metric-title">有销量标签商品数</div><div class="metric-value">556</div><span>55.88%</span></div>
+      <div class="metric-card"><div class="metric-title">强信号商品数</div><div class="metric-value">115</div><span>11.56%</span></div>
+    </section>
+    <section class="card"><h2>价格带分析</h2><table><thead><tr><th>价格带</th><th>高曝光商品</th><th>有销量标签商品</th><th>强信号商品</th></tr></thead><tbody><tr><td>0-5</td><td class="num">45</td><td class="num">218</td><td class="num">44</td></tr><tr><td>5-10</td><td class="num">46</td><td class="num">112</td><td class="num">20</td></tr><tr><td>10-15</td><td class="num">37</td><td class="num">110</td><td class="num">20</td></tr><tr><td>15-20</td><td class="num">34</td><td class="num">60</td><td class="num">20</td></tr><tr><td>20+</td><td class="num">22</td><td class="num">56</td><td class="num">11</td></tr></tbody></table></section>
+    <section class="card"><h2>风格分析 Top10</h2><table><thead><tr><th>风格</th><th>高曝光商品</th><th>有销量标签商品</th><th>强信号商品</th></tr></thead><tbody><tr><td>casual</td><td class="num">115</td><td class="num">312</td><td class="num">67</td></tr><tr><td>elegant</td><td class="num">33</td><td class="num">86</td><td class="num">18</td></tr><tr><td>minimalist</td><td class="num">17</td><td class="num">43</td><td class="num">10</td></tr><tr><td>sexy</td><td class="num">15</td><td class="num">33</td><td class="num">10</td></tr><tr><td>cute</td><td class="num">7</td><td class="num">21</td><td class="num">7</td></tr><tr><td>vintage</td><td class="num">9</td><td class="num">26</td><td class="num">5</td></tr><tr><td>business</td><td class="num">6</td><td class="num">17</td><td class="num">5</td></tr><tr><td>boho</td><td class="num">7</td><td class="num">14</td><td class="num">4</td></tr><tr><td>retro</td><td class="num">3</td><td class="num">28</td><td class="num">2</td></tr><tr><td>chic</td><td class="num">3</td><td class="num">22</td><td class="num">1</td></tr></tbody></table></section>
+    <section class="card"><h2>场景分析 Top10</h2><table><thead><tr><th>场景</th><th>高曝光商品</th><th>有销量标签商品</th><th>强信号商品</th></tr></thead><tbody><tr><td>vacation</td><td class="num">32</td><td class="num">83</td><td class="num">21</td></tr><tr><td>beach</td><td class="num">15</td><td class="num">39</td><td class="num">10</td></tr><tr><td>party</td><td class="num">13</td><td class="num">36</td><td class="num">8</td></tr><tr><td>street</td><td class="num">11</td><td class="num">27</td><td class="num">8</td></tr><tr><td>holiday</td><td class="num">10</td><td class="num">28</td><td class="num">6</td></tr><tr><td>commute</td><td class="num">9</td><td class="num">18</td><td class="num">6</td></tr><tr><td>work</td><td class="num">7</td><td class="num">17</td><td class="num">6</td></tr><tr><td>sports</td><td class="num">4</td><td class="num">19</td><td class="num">4</td></tr><tr><td>school</td><td class="num">6</td><td class="num">23</td><td class="num">3</td></tr><tr><td>birthday</td><td class="num">3</td><td class="num">16</td><td class="num">3</td></tr></tbody></table></section>
+    <section class="card"><h2>设计元素与细节分析</h2><p class="subtitle">基于服装设计短语词库匹配的 Top10</p><table><thead><tr><th>设计元素</th><th>高曝光商品</th><th>有销量标签商品</th><th>强信号商品</th></tr></thead><tbody><tr><td>round neck</td><td class="num">30</td><td class="num">56</td><td class="num">14</td></tr><tr><td>slim fit</td><td class="num">14</td><td class="num">34</td><td class="num">11</td></tr><tr><td>wide leg</td><td class="num">12</td><td class="num">51</td><td class="num">10</td></tr><tr><td>v neck</td><td class="num">16</td><td class="num">37</td><td class="num">9</td></tr><tr><td>polka dot</td><td class="num">10</td><td class="num">25</td><td class="num">7</td></tr><tr><td>backless</td><td class="num">9</td><td class="num">22</td><td class="num">6</td></tr><tr><td>a line</td><td class="num">7</td><td class="num">18</td><td class="num">6</td></tr><tr><td>high waist</td><td class="num">7</td><td class="num">19</td><td class="num">5</td></tr><tr><td>ruched</td><td class="num">5</td><td class="num">14</td><td class="num">5</td></tr><tr><td>letter print</td><td class="num">5</td><td class="num">13</td><td class="num">4</td></tr></tbody></table></section>
+    <section class="card note">
+      <h2>数据边界说明</h2>
+      <p>说明：本报告只基于实际平台采集的真实数据分析，所有数据均可在采集的报表中溯源。</p>
+      <p>强信号商品：同时具备高曝光率和实际交易的商品（同时满足平台和真实市场的认可，平台在推广并且消费者在购买）。</p>
+    </section>
+  </main>
+</body>
+</html>

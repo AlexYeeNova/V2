@@ -1,3 +1,9 @@
+data/browser_profile/
+data/debug/
+__pycache__/
+*.pyc
+.venv/
+
 # local files
 site/*
 local_tests/*

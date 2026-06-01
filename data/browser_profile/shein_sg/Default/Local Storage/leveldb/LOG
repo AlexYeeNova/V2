@@ -1,6 +1,0 @@
-2026/05/31-14:20:17.277 d39c Reusing MANIFEST D:\V2\data\browser_profile\shein_sg\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/31-14:20:17.280 d39c Recovering log #7
-2026/05/31-14:20:17.281 d39c Reusing old log D:\V2\data\browser_profile\shein_sg\Default\Local Storage\leveldb/000007.log 
-2026/05/31-14:25:18.794 c2ec Level-0 table #10: started
-2026/05/31-14:25:18.799 c2ec Level-0 table #10: 35856 bytes OK
-2026/05/31-14:25:18.801 c2ec Delete type=0 #7
