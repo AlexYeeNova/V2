@@ -1,12 +1,19 @@
-"""V2.8：分类页信号交叉分析报告。"""
+"""V2.8：分类页信号交叉分析报告。
+
+本脚本只基于 V2.7 分类页合并数据做本地统计，不访问网络、不重新采集、
+不计算 trend_score，也不输出 HOT/WARM/NORMAL。
+"""
 
 from __future__ import annotations
 
 import csv
 import html
+import math
 import re
+from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
+from typing import Any
 
 
 # 项目根目录、输入文件与输出报告路径。
@@ -31,6 +38,7 @@ STYLE_KEYWORDS = [
     "cute",
     "business",
 ]
+
 SCENARIO_KEYWORDS = [
     "vacation",
     "holiday",
@@ -48,6 +56,7 @@ SCENARIO_KEYWORDS = [
     "office",
     "street",
 ]
+
 DESIGN_ELEMENT_PHRASES = [
     # 领型
     "crew neck",
@@ -62,7 +71,6 @@ DESIGN_ELEMENT_PHRASES = [
     "polo collar",
     "lapel collar",
     "sweetheart neck",
-
     # 肩部与袖型
     "off shoulder",
     "off-shoulder",
@@ -74,21 +82,18 @@ DESIGN_ELEMENT_PHRASES = [
     "batwing sleeve",
     "lantern sleeve",
     "bell sleeve",
-
     # 腰部
     "high waist",
     "low waist",
     "elastic waist",
     "drawstring waist",
     "paperbag waist",
-
     # 门襟与闭合
     "button front",
     "zip front",
     "zipper front",
     "tie front",
     "knot front",
-
     # 工艺细节
     "lace up",
     "lace-up",
@@ -104,7 +109,6 @@ DESIGN_ELEMENT_PHRASES = [
     "lace trim",
     "mesh panel",
     "ribbed knit",
-
     # 图案与印花
     "polka dot",
     "floral print",
@@ -116,7 +120,6 @@ DESIGN_ELEMENT_PHRASES = [
     "leopard print",
     "color block",
     "colour block",
-
     # 可从标题中较稳定识别的廓形/裤型
     "wide leg",
     "straight leg",
@@ -132,6 +135,7 @@ DESIGN_ELEMENT_PHRASES = [
     "crop top",
     "spaghetti strap",
 ]
+
 PHRASE_ALIASES = {
     "v-neck": "v neck",
     "off-shoulder": "off shoulder",
@@ -142,6 +146,7 @@ PHRASE_ALIASES = {
     "zipper front": "zip front",
     "flower print": "floral print",
 }
+
 PRICE_BANDS = [
     ("0-5", 0, 5),
     ("5-10", 5, 10),
@@ -161,6 +166,16 @@ class SignalCount:
 
 
 @dataclass
+class SalesTagStats:
+    """记录 sales_tag 清洗统计。"""
+
+    non_empty_count: int
+    real_sales_count: int
+    excluded_count: int
+    excluded_examples: list[tuple[str, int]]
+
+
+@dataclass
 class AnalysisResult:
     """保存一次分析得到的全部统计结果，供 TXT 和 HTML 共同使用。"""
 
@@ -168,6 +183,7 @@ class AnalysisResult:
     high_exposure_count: int
     sales_signal_count: int
     strong_signal_count: int
+    sales_tag_stats: SalesTagStats
     price_signal_rows: list[tuple[str, SignalCount]]
     style_signal_rows: list[tuple[str, SignalCount]]
     scenario_signal_rows: list[tuple[str, SignalCount]]
@@ -186,7 +202,7 @@ def read_products(csv_path: Path) -> list[dict[str, str]]:
 def parse_int(value: str) -> int:
     """安全解析整数字段。"""
     try:
-        return int((value or "").strip())
+        return int(float((value or "").strip()))
     except ValueError:
         return 0
 
@@ -207,9 +223,18 @@ def get_price_band(price: float) -> str:
     return ""
 
 
-def has_sales_signal(product: dict[str, str]) -> bool:
-    """sales_tag 非空即认为有销量标签。"""
-    return bool((product.get("sales_tag") or "").strip())
+def normalize_sales_tag(sales_tag: Any) -> str:
+    """标准化 sales_tag 文本，兼容 None、NaN 与空值。"""
+    if sales_tag is None:
+        return ""
+    if isinstance(sales_tag, float) and math.isnan(sales_tag):
+        return ""
+    return str(sales_tag).strip()
+
+
+def is_real_sales_tag(sales_tag: Any) -> bool:
+    """只有 sales_tag 中包含 sold，才视为真实销量标签。"""
+    return "sold" in normalize_sales_tag(sales_tag).lower()
 
 
 def is_high_exposure(product: dict[str, str]) -> bool:
@@ -218,8 +243,8 @@ def is_high_exposure(product: dict[str, str]) -> bool:
 
 
 def has_strong_signal(product: dict[str, str]) -> bool:
-    """同时高曝光且有销量标签即认为强信号。"""
-    return is_high_exposure(product) and has_sales_signal(product)
+    """同时高曝光且具备 sold 销量标签，才认为强信号。"""
+    return is_high_exposure(product) and is_real_sales_tag(product.get("sales_tag"))
 
 
 def tokenize_title(title: str) -> list[str]:
@@ -230,8 +255,7 @@ def tokenize_title(title: str) -> list[str]:
 def normalize_title_for_phrase_match(title: str) -> str:
     """标准化短语匹配文本：小写、连字符转空格、去除多余空格。"""
     lowered_title = (title or "").lower().replace("-", " ")
-    cleaned_title = re.sub(r"\s+", " ", lowered_title).strip()
-    return cleaned_title
+    return re.sub(r"\s+", " ", lowered_title).strip()
 
 
 def normalize_design_phrase(phrase: str) -> str:
@@ -251,14 +275,14 @@ def add_product_signal(signal_count: SignalCount, product: dict[str, str]) -> No
     """把单个商品的三类信号累加到指定统计项。"""
     if is_high_exposure(product):
         signal_count.high_exposure_count += 1
-    if has_sales_signal(product):
+    if is_real_sales_tag(product.get("sales_tag")):
         signal_count.sales_signal_count += 1
     if has_strong_signal(product):
         signal_count.strong_signal_count += 1
 
 
 def sort_signal_items(signal_map: dict[str, SignalCount]) -> list[tuple[str, SignalCount]]:
-    """按强信号、销量标签、高曝光数量排序。"""
+    """按强信号、真实销量标签、高曝光数量排序。"""
     return sorted(
         signal_map.items(),
         key=lambda item: (
@@ -278,9 +302,8 @@ def analyze_price_bands(products: list[dict[str, str]]) -> dict[str, SignalCount
         if price is None:
             continue
         price_band = get_price_band(price)
-        if not price_band:
-            continue
-        add_product_signal(price_signal_map[price_band], product)
+        if price_band:
+            add_product_signal(price_signal_map[price_band], product)
     return price_signal_map
 
 
@@ -314,19 +337,33 @@ def analyze_design_elements(products: list[dict[str, str]]) -> dict[str, SignalC
     return design_signal_map
 
 
+def analyze_sales_tag_stats(products: list[dict[str, str]]) -> SalesTagStats:
+    """统计 sales_tag 清洗结果和被排除的非销量标签示例。"""
+    non_empty_tags = [normalize_sales_tag(product.get("sales_tag")) for product in products]
+    non_empty_tags = [tag for tag in non_empty_tags if tag]
+    real_sales_tags = [tag for tag in non_empty_tags if is_real_sales_tag(tag)]
+    excluded_tags = [tag for tag in non_empty_tags if not is_real_sales_tag(tag)]
+    return SalesTagStats(
+        non_empty_count=len(non_empty_tags),
+        real_sales_count=len(real_sales_tags),
+        excluded_count=len(excluded_tags),
+        excluded_examples=Counter(excluded_tags).most_common(10),
+    )
+
+
 def format_signal_table(title: str, first_column_name: str, rows: list[tuple[str, SignalCount]]) -> list[str]:
     """格式化三类信号统计表。"""
     lines = [
         title,
         "",
-        f"{first_column_name:<14}高曝光商品        有销量标签商品        强信号商品",
+        f"{first_column_name:<16}高曝光商品        真实销量标签商品        强信号商品",
         "",
     ]
     for name, signal_count in rows:
         row_text = (
-            f"{name:<16}"
+            f"{name:<18}"
             + f"{signal_count.high_exposure_count}个".ljust(18)
-            + f"{signal_count.sales_signal_count}个".ljust(20)
+            + f"{signal_count.sales_signal_count}个".ljust(22)
             + f"{signal_count.strong_signal_count}个"
         )
         lines.append(row_text)
@@ -337,8 +374,9 @@ def analyze_products(products: list[dict[str, str]]) -> AnalysisResult:
     """执行一次完整统计，避免 TXT 和 HTML 报告重复计算后不一致。"""
     total_count = len(products)
     high_exposure_count = sum(1 for product in products if is_high_exposure(product))
-    sales_signal_count = sum(1 for product in products if has_sales_signal(product))
+    sales_signal_count = sum(1 for product in products if is_real_sales_tag(product.get("sales_tag")))
     strong_signal_count = sum(1 for product in products if has_strong_signal(product))
+    sales_tag_stats = analyze_sales_tag_stats(products)
     price_signal_map = analyze_price_bands(products)
     style_signal_rows = sort_signal_items(analyze_keyword_group(products, STYLE_KEYWORDS))[:10]
     scenario_signal_rows = sort_signal_items(analyze_keyword_group(products, SCENARIO_KEYWORDS))[:10]
@@ -355,6 +393,7 @@ def analyze_products(products: list[dict[str, str]]) -> AnalysisResult:
         high_exposure_count=high_exposure_count,
         sales_signal_count=sales_signal_count,
         strong_signal_count=strong_signal_count,
+        sales_tag_stats=sales_tag_stats,
         price_signal_rows=[(band_name, price_signal_map[band_name]) for band_name, _, _ in PRICE_BANDS],
         style_signal_rows=style_signal_rows,
         scenario_signal_rows=scenario_signal_rows,
@@ -369,25 +408,25 @@ def build_report(result: AnalysisResult) -> str:
         "",
         f"1. 总商品数：{result.total_count}",
         f"2. 高曝光商品数：{result.high_exposure_count}（{calc_ratio(result.high_exposure_count, result.total_count)}）",
-        f"3. 有销量标签商品数：{result.sales_signal_count}（{calc_ratio(result.sales_signal_count, result.total_count)}）",
+        f"3. 真实销量标签商品数：{result.sales_signal_count}（{calc_ratio(result.sales_signal_count, result.total_count)}）",
         f"4. 强信号商品数：{result.strong_signal_count}（{calc_ratio(result.strong_signal_count, result.total_count)}）",
         "",
         "-" * 50,
         "",
     ]
-    report_lines.extend(
-        format_signal_table(
-            "【价格带分析】",
-            "价格带",
-            result.price_signal_rows,
-        )
-    )
+    report_lines.extend(format_signal_table("【价格带分析】", "价格带", result.price_signal_rows))
     report_lines.extend(["", "-" * 50, ""])
     report_lines.extend(format_signal_table("【风格分析（Top10）】", "风格", result.style_signal_rows))
     report_lines.extend(["", "-" * 50, ""])
     report_lines.extend(format_signal_table("【场景分析（Top10）】", "场景", result.scenario_signal_rows))
     report_lines.extend(["", "-" * 50, ""])
-    report_lines.extend(format_signal_table("【设计元素与细节分析】(服装设计短语 Top 10)", "设计元素", result.design_element_rows))
+    report_lines.extend(
+        format_signal_table(
+            "【设计元素与细节分析】(服装设计短语 Top 10)",
+            "设计元素",
+            result.design_element_rows,
+        )
+    )
     report_lines.extend(
         [
             "",
@@ -395,14 +434,16 @@ def build_report(result: AnalysisResult) -> str:
             "",
             "说明：本报告只基于实际平台采集的真实数据分析，所有数据均可在采集的报表中溯源。",
             "",
-            "强信号商品：同时具备高曝光率和实际交易的商品（同时满足平台和真实市场的认可，平台在推广并且消费者在购买）。",
+            "真实销量标签商品：仅统计 sales_tag 中包含 sold 的商品；SAVE、NEW、折扣、优惠等标签不计入销量信号。",
+            "",
+            "强信号商品：同时具备高曝光率和真实销量标签的商品（同时满足平台曝光和已出现 sold 销量信号）。",
         ]
     )
     return "\n".join(report_lines)
 
 
 def html_escape(value: object) -> str:
-    """转义 HTML 文本，避免标题和关键词中的特殊字符破坏页面。"""
+    """转义 HTML 文本，避免特殊字符破坏页面。"""
     return html.escape(str(value), quote=True)
 
 
@@ -431,7 +472,7 @@ def build_html_table(
         "<thead><tr>"
         f"<th>{html_escape(first_column_name)}</th>"
         "<th>高曝光商品</th>"
-        "<th>有销量标签商品</th>"
+        "<th>真实销量标签商品</th>"
         "<th>强信号商品</th>"
         "</tr></thead>"
         f"<tbody>{''.join(body_rows)}</tbody>"
@@ -559,7 +600,7 @@ def build_html_report(result: AnalysisResult) -> str:
     <section class="metrics">
       {build_metric_card("总商品数", result.total_count)}
       {build_metric_card("高曝光商品数", result.high_exposure_count, result.total_count)}
-      {build_metric_card("有销量标签商品数", result.sales_signal_count, result.total_count)}
+      {build_metric_card("真实销量标签商品数", result.sales_signal_count, result.total_count)}
       {build_metric_card("强信号商品数", result.strong_signal_count, result.total_count)}
     </section>
     {build_html_table("价格带分析", "价格带", result.price_signal_rows)}
@@ -569,7 +610,8 @@ def build_html_report(result: AnalysisResult) -> str:
     <section class="card note">
       <h2>数据边界说明</h2>
       <p>说明：本报告只基于实际平台采集的真实数据分析，所有数据均可在采集的报表中溯源。</p>
-      <p>强信号商品：同时具备高曝光率和实际交易的商品（同时满足平台和真实市场的认可，平台在推广并且消费者在购买）。</p>
+      <p>真实销量标签商品：仅统计 sales_tag 中包含 sold 的商品；SAVE、NEW、折扣、优惠等标签不计入销量信号。</p>
+      <p>强信号商品：同时具备高曝光率和真实销量标签的商品（同时满足平台曝光和已出现 sold 销量信号）。</p>
     </section>
   </main>
 </body>
@@ -589,6 +631,21 @@ def save_html_report(result: AnalysisResult, output_file: Path) -> None:
     output_file.write_text(build_html_report(result), encoding="utf-8")
 
 
+def print_sales_tag_cleaning_stats(result: AnalysisResult) -> None:
+    """打印销量标签清洗统计，方便确认 SAVE/NEW/折扣未计入销量信号。"""
+    stats = result.sales_tag_stats
+    print("销量标签清洗统计：")
+    print(f"总商品数：{result.total_count}")
+    print(f"sales_tag 非空商品数：{stats.non_empty_count}")
+    print(f"sales_tag 包含 sold 商品数：{stats.real_sales_count}")
+    print(f"被排除的非销量标签数量：{stats.excluded_count}")
+    print("非销量标签示例 Top10：")
+    if not stats.excluded_examples:
+        print("- 无")
+    for tag, count in stats.excluded_examples:
+        print(f"- {tag}：{count}")
+
+
 def main() -> None:
     """执行 V2.8 分类页信号交叉分析。"""
     products = read_products(INPUT_FILE)
@@ -599,8 +656,9 @@ def main() -> None:
 
     print(f"总商品数：{result.total_count}")
     print(f"高曝光商品数：{result.high_exposure_count}")
-    print(f"有销量标签商品数：{result.sales_signal_count}")
+    print(f"真实销量标签商品数：{result.sales_signal_count}")
     print(f"强信号商品数：{result.strong_signal_count}")
+    print_sales_tag_cleaning_stats(result)
     print(f"报告保存路径：{REPORT_OUTPUT_FILE}")
     print(f"HTML报告保存路径：{HTML_REPORT_OUTPUT_FILE}")
 

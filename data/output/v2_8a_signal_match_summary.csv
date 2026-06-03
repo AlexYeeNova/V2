@@ -1,0 +1,77 @@
+﻿analysis_type,keyword,total_match_count,high_exposure_count,real_sales_count,strong_signal_count
+design_element,wide leg,149,20,108,16
+design_element,round neck,149,21,87,11
+design_element,high waist,66,11,46,11
+design_element,slim fit,68,12,50,10
+design_element,pleated,96,11,71,9
+design_element,straight leg,65,6,49,5
+design_element,v neck,27,7,19,5
+design_element,square neck,42,5,30,4
+design_element,letter print,43,9,23,3
+design_element,crew neck,27,5,21,3
+design_element,polka dot,19,4,14,3
+design_element,camisole top,14,3,8,2
+design_element,crop top,12,2,8,2
+design_element,off shoulder,10,2,8,2
+design_element,lace trim,12,3,7,2
+design_element,leopard print,10,2,6,2
+design_element,spaghetti strap,8,3,5,2
+design_element,graphic print,5,2,2,2
+design_element,ruched,29,1,22,1
+design_element,backless,16,1,10,1
+design_element,elastic waist,12,1,10,1
+design_element,drawstring waist,21,2,9,1
+design_element,scoop neck,11,2,8,1
+design_element,striped print,5,1,5,1
+design_element,low waist,7,1,4,1
+design_element,a line,6,2,3,1
+design_element,ribbed knit,8,2,3,1
+design_element,ruffle hem,3,1,2,1
+design_element,puff sleeve,2,1,1,1
+design_element,split hem,1,1,1,1
+design_element,halter neck,9,0,7,0
+design_element,flare leg,8,0,6,0
+design_element,drop shoulder,7,0,5,0
+design_element,floral print,7,0,5,0
+design_element,polo collar,5,0,5,0
+design_element,batwing sleeve,4,0,4,0
+design_element,contrast trim,4,0,4,0
+design_element,mock neck,3,0,3,0
+design_element,animal print,1,0,1,0
+design_element,asymmetrical hem,2,0,1,0
+design_element,cap sleeve,2,0,1,0
+design_element,color block,1,0,1,0
+design_element,cut out,1,0,1,0
+design_element,lace up,2,0,1,0
+design_element,lapel collar,1,0,1,0
+design_element,bell sleeve,0,0,0,0
+design_element,bodycon dress,0,0,0,0
+design_element,button front,0,0,0,0
+design_element,cold shoulder,2,0,0,0
+design_element,knot front,0,0,0,0
+design_element,lantern sleeve,0,0,0,0
+design_element,mesh panel,0,0,0,0
+design_element,notch neck,0,0,0,0
+design_element,one shoulder,0,0,0,0
+design_element,paperbag waist,0,0,0,0
+design_element,skinny fit,0,0,0,0
+design_element,slip dress,0,0,0,0
+design_element,sweetheart neck,0,0,0,0
+design_element,tie front,1,0,0,0
+design_element,wrap dress,0,0,0,0
+design_element,zip front,0,0,0,0
+scenario,vacation,108,16,72,13
+scenario,office,52,13,37,11
+scenario,work,29,8,18,6
+scenario,party,24,7,13,6
+scenario,street,49,8,25,5
+scenario,commute,25,6,18,5
+scenario,beach,58,5,38,4
+scenario,school,35,5,28,4
+scenario,holiday,41,6,24,3
+scenario,festival,9,3,6,3
+scenario,sports,22,4,11,2
+scenario,graduation,6,2,4,2
+scenario,date,13,1,7,1
+scenario,wedding,9,2,5,1
+scenario,birthday,0,0,0,0
