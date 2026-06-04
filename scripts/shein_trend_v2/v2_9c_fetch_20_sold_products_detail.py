@@ -1,7 +1,7 @@
-"""V2.9B：真实 sold 商品详情页 5 个样本采集验证脚本。
+"""V2.9C：真实 sold 商品详情页 20 个样本采集验证脚本。
 
 本脚本基于 V2.9A 的单商品详情页采集与 Description 全量属性解析能力，
-扩展到最多 5 个真实 sold 商品，用于验证不同商品 Description 字段不一致时，
+扩展到最多 20 个真实 sold 商品，用于验证不同商品 Description 字段不一致时，
 解析逻辑是否稳定。
 """
 
@@ -156,8 +156,8 @@ SUMMARY_FIELDS = [
     "parse_success_count",
     "blocked_or_verify_count",
     "connection_closed_count",
-    "fetch_failed_count",
     "timeout_count",
+    "fetch_failed_count",
     "product_unavailable_count",
     "not_found_count",
     "average_attribute_count",
@@ -248,7 +248,7 @@ def read_products() -> list[dict[str, str]]:
 
 
 def select_sold_products(products: list[dict[str, str]]) -> list[dict[str, str]]:
-    """筛选并选择最多 5 个真实 sold 商品。"""
+    """筛选并选择最多 20 个真实 sold 商品。"""
     candidates = [
         product
         for product in products
@@ -584,8 +584,8 @@ def build_summary_row(total_planned: int, rows: list[dict[str, str]]) -> dict[st
         "parse_success_count": str(parse_success_count),
         "blocked_or_verify_count": str(sum(1 for row in rows if row.get("page_status") == "blocked_or_verify")),
         "connection_closed_count": str(sum(1 for row in rows if row.get("page_status") == "connection_closed")),
-        "fetch_failed_count": str(sum(1 for row in rows if row.get("page_status") == "fetch_failed")),
         "timeout_count": str(sum(1 for row in rows if row.get("page_status") == "timeout")),
+        "fetch_failed_count": str(sum(1 for row in rows if row.get("page_status") == "fetch_failed")),
         "product_unavailable_count": str(sum(1 for row in rows if row.get("page_status") == "product_unavailable")),
         "not_found_count": str(sum(1 for row in rows if row.get("page_status") == "not_found")),
         "average_attribute_count": f"{sum(attribute_counts) / len(attribute_counts):.2f}" if attribute_counts else "0.00",
@@ -642,9 +642,9 @@ def fetch_and_parse_one_product(session: StealthySession, product: dict[str, str
             [
                 "<!doctype html>",
                 "<html>",
-                "<head><meta charset=\"utf-8\"><title>V2.9B fetch failed</title></head>",
+                "<head><meta charset=\"utf-8\"><title>V2.9C fetch failed</title></head>",
                 "<body>",
-                "<h1>V2.9B 商品详情页请求失败</h1>",
+                "<h1>V2.9C 商品详情页请求失败</h1>",
                 f"<p>product_id：{html.escape(product_id)}</p>",
                 f"<p>目标 URL：{html.escape(product_url)}</p>",
                 f"<pre>{html.escape(error_text)}</pre>",
@@ -697,7 +697,7 @@ def print_product_result(row: dict[str, str]) -> None:
 
 
 def main() -> None:
-    """执行 V2.9B 5 个真实 sold 商品详情页采集验证。"""
+    """执行 V2.9C 20 个真实 sold 商品详情页采集验证。"""
     ensure_dirs()
     products = read_products()
     sold_candidates = [
@@ -709,7 +709,7 @@ def main() -> None:
     ]
     selected_products = select_sold_products(products)
 
-    print("V2.9B 真实 sold 商品详情页 5 个样本采集验证")
+    print("V2.9C 真实 sold 商品详情页 20 个样本采集验证")
     print("=" * 64)
     print(f"候选真实 sold 商品数量：{len(sold_candidates)}")
     print(f"本次计划采集商品数：{len(selected_products)}")
@@ -749,7 +749,7 @@ def main() -> None:
     parse_success_count = sum(1 for row in results if row["parse_status"] == "success")
     summary_row = write_summary_csv(len(selected_products), results)
 
-    print("\nV2.9B 小批量详情采集完成")
+    print("\nV2.9C 小批量详情采集完成")
     print("=" * 64)
     print(f"候选真实 sold 商品数量：{len(sold_candidates)}")
     print(f"本次计划采集商品数：{len(selected_products)}")
@@ -757,8 +757,8 @@ def main() -> None:
     print(f"parse_status = success 数量：{parse_success_count}")
     print(f"blocked_or_verify count: {summary_row['blocked_or_verify_count']}")
     print(f"connection_closed count: {summary_row['connection_closed_count']}")
-    print(f"fetch_failed count: {summary_row['fetch_failed_count']}")
     print(f"timeout count: {summary_row['timeout_count']}")
+    print(f"fetch_failed count: {summary_row['fetch_failed_count']}")
     print(f"product_unavailable count: {summary_row['product_unavailable_count']}")
     print(f"not_found count: {summary_row['not_found_count']}")
     for row in results:

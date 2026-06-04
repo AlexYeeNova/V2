@@ -1,2 +1,2 @@
-﻿total_planned,total_output_rows,page_success_count,parse_success_count,blocked_or_verify_count,connection_closed_count,fetch_failed_count,timeout_count,product_unavailable_count,not_found_count,average_attribute_count,max_attribute_count,min_attribute_count,average_success_attribute_count,max_success_attribute_count,min_success_attribute_count,success_rate,parse_success_rate,crawl_time
-20,20,19,19,0,0,0,1,0,0,18.55,22,0,19.53,22,18,95.00%,95.00%,2026-06-04T10:08:07+08:00
+﻿total_planned,total_output_rows,page_success_count,parse_success_count,blocked_or_verify_count,connection_closed_count,timeout_count,fetch_failed_count,product_unavailable_count,not_found_count,average_attribute_count,max_attribute_count,min_attribute_count,average_success_attribute_count,max_success_attribute_count,min_success_attribute_count,success_rate,parse_success_rate,crawl_time
+20,20,19,19,0,0,1,0,0,0,18.55,22,0,19.53,22,18,95.00%,95.00%,2026-06-04T11:22:06+08:00
