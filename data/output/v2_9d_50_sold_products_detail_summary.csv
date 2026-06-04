@@ -1,0 +1,2 @@
+﻿total_planned,total_output_rows,page_success_count,parse_success_count,blocked_or_verify_count,connection_closed_count,timeout_count,fetch_failed_count,product_unavailable_count,not_found_count,average_attribute_count,max_attribute_count,min_attribute_count,average_success_attribute_count,max_success_attribute_count,min_success_attribute_count,success_rate,parse_success_rate,crawl_time
+50,50,50,50,0,0,0,0,0,0,19.22,23,17,19.22,23,17,100.00%,100.00%,2026-06-04T15:59:28+08:00
