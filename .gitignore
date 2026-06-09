@@ -23,6 +23,11 @@ __pycache__/
 .build
 .ve
 .env
+*.env
+.env.*
+secrets/
+config/secrets.json
+config/proxy_config.json
 .pytest
 .benchmarks
 .bootstrap

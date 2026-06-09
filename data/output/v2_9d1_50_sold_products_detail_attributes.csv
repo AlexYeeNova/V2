@@ -1,0 +1,46 @@
+﻿product_id,product_url,final_url,source_page,appear_count,appear_pages,sales_tag,is_real_sales_tag,title,price,sku,color,material,composition,fabric_elasticity,fit_type,pattern_type,style,occasion,details,type,length,neckline,sleeve_length,sleeve_type,waist_line,closure_type,placket,pockets,body,hem_shaped,lined_for_added_warmth,features,sheer,temperature,festivals,attribute_count,attribute_keys,attributes_json,raw_description_text,crawl_time,page_status,status_reason,parse_status,html_saved_path,visible_text_saved_path,description_raw_text_saved_path,fetch_mode,fetch_seconds,save_seconds,parse_seconds,product_total_seconds,inter_sleep_seconds,attempt_count,recovery_used,manual_wait_seconds,stable_success_streak,consecutive_failures,fast_mode_min_cycle_seconds,frequency_guard_enabled
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html?mallCode=1&pageListType=4&detailBusinessFrom=0-1_57883154%7C0-2,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html?mallCode=1&pageListType=4&detailBusinessFrom=0-1_57883154%7C0-2,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$0.00,sz25020983472487747,Black,Knitted Fabric,"95% Polyester, 5% Elastane",Non-Stretch,Loose,,Casual,Daily,Rib-Knit,Straight Leg,Long,,,,Natural(Mid Waist),Zipper Fly,,No,Unlined,,No,Comfortable,Yes,,Mother's Day,19,"Features,Closure Type,Details,Body,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Sheer","{""Features"": ""Comfortable"", ""Closure Type"": ""Zipper Fly"", ""Details"": ""Rib-Knit"", ""Body"": ""Unlined"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Mother's Day"", ""Color"": ""Black"", ""Type"": ""Straight Leg"", ""Waist Line"": ""Natural(Mid Waist)"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Knitted Fabric"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""Yes""}","Features: Comfortable
+Closure Type: Zipper Fly
+Details: Rib-Knit
+Body: Unlined
+Style: Casual
+Occasion: Daily
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Mother's Day
+Color: Black
+Type: Straight Leg
+Waist Line: Natural(Mid Waist)
+Length: Long
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Material: Knitted Fabric
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: Yes",2026-06-07T11:35:42+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1_50_sold_products\57883154.html,D:\V2\data\debug\v2_9d1_50_sold_products\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1_50_sold_products\57883154_description_raw_text.txt,stable,34.94,0.01,0.04,35.12,7.03,1,False,0.00,0,0,20,True
+209903633,https://sg.shein.com/SuriyaCove-Retro-American-Y2K-Style-Minimalist-Women-Sweatpants-p-209903633.html?src_module=RealClassFilteredRecommend&src_identifier=on=PRODUCT_RECOMMEND_COMPONENT`cn=PRODUCT_RECOMMEND_COMPONENT_1`hz=0`ps=1_0`jc=null_0&src_tab_page_id=page_risk_crawler_block1780388376590&mallCode=1&detailBusinessFrom=0-2,https://sg.shein.com/SuriyaCove-Retro-American-Y2K-Style-Minimalist-Women-Sweatpants-p-209903633.html?src_module=RealClassFilteredRecommend&src_identifier=on=PRODUCT_RECOMMEND_COMPONENT`cn=PRODUCT_RECOMMEND_COMPONENT_1`hz=0`ps=1_0`jc=null_0&src_tab_page_id=page_risk_crawler_block1780388376590&mallCode=1&detailBusinessFrom=0-2,1,3,"1,2",29.1k+ sold,TRUE,SuriyaCove Retro American Y2K Style Minimalist Women Sweatpants,S$14.99,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,"页面状态为 fetch_failed，跳过 Description 解析：TargetClosedError: Page.content: Target page, context or browser has been closed",2026-06-07T11:36:24+08:00,fetch_failed,"TargetClosedError: Page.content: Target page, context or browser has been closed",skipped_due_to_page_status,D:\V2\data\debug\v2_9d1_50_sold_products\209903633.html,D:\V2\data\debug\v2_9d1_50_sold_products\209903633_visible_text.txt,D:\V2\data\debug\v2_9d1_50_sold_products\209903633_description_raw_text.txt,fast,15.63,0.00,0.00,15.64,16.38,1,False,0.00,0,1,20,True
+10887023,https://sg.shein.com/SHEIN-LUNE-Shirred-Waist-Wide-Leg-Pants-Teacher-Outfits-For-Women-p-10887023.html?mallCode=1&pageListType=4&detailBusinessFrom=0-1_10887023%7C0-2,https://sg.shein.com/SHEIN-LUNE-Shirred-Waist-Wide-Leg-Pants-Teacher-Outfits-For-Women-p-10887023.html?mallCode=1&pageListType=4&detailBusinessFrom=0-1_10887023%7C0-2,3,3,"3,5,9",17k+ sold,TRUE,"SHEIN LUNE Shirred Waist Wide Leg Pants,Teacher Outfits For Women",S$0.00,sw2206209938384828,Black,Fabric,100% Polyester,Non-Stretch,Loose,Plain,Casual,Daily,Shirred,Wide Leg,Capris,,,,High Waist,Elastic Waist,,No,Unlined,,No,,No,Spring/Fall (18-25/63-77),Teachers' Day,20,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Temperature,Sheer","{""Closure Type"": ""Elastic Waist"", ""Details"": ""Shirred"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Teachers' Day"", ""Color"": ""Black"", ""Type"": ""Wide Leg"", ""Waist Line"": ""High Waist"", ""Length"": ""Capris"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Fabric"", ""Composition"": ""100% Polyester"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Temperature"": ""Spring/Fall (18-25/63-77)"", ""Sheer"": ""No""}","Closure Type: Elastic Waist
+Details: Shirred
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Daily
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Teachers' Day
+Color: Black
+Type: Wide Leg
+Waist Line: High Waist
+Length: Capris
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Material: Fabric
+Composition: 100% Polyester
+Care Instructions: Machine wash or professional dry clean
+Temperature: Spring/Fall (18-25/63-77)
+Sheer: No",2026-06-07T11:37:21+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1_50_sold_products\10887023.html,D:\V2\data\debug\v2_9d1_50_sold_products\10887023_visible_text.txt,D:\V2\data\debug\v2_9d1_50_sold_products\10887023_description_raw_text.txt,fast_to_stable_empty_detail_retry,39.97,0.01,0.10,40.37,26.69,2,True,0.00,0,0,20,True
+149061645,https://sg.shein.com/SHEIN-Essnce-3pcs-Set-Women-s-Blue-And-White-Stripe-Nautical-Style-Casual-Summer-Vacation-Waist-Tie-Pants-With-Pockets-Straight-Leg-Black-White-Striped-Clothes-p-149061645.html?mallCode=1&pageListType=4&detailBusinessFrom=0-1_149061645%7C0-2,https://sg.shein.com/risk/challenge?captcha_type=909&redirection=https%3A%2F%2Fsg.shein.com%2FSHEIN-Essnce-3pcs-Set-Women-s-Blue-And-White-Stripe-Nautical-Style-Casual-Summer-Vacation-Waist-Tie-Pants-With-Pockets-Straight-Leg-Black-White-Striped-Clothes-p-149061645.html%3FmallCode%3D1%26pageListType%3D4%26detailBusinessFrom%3D0-1_149061645%257C0-2&risk-id=E4836718148128942720,8,3,"8,9,10",14.1k+ sold,TRUE,"SHEIN Essnce 3pcs Set Women's Blue And White Stripe Nautical Style Casual Summer Vacation Waist Tie Pants With Pockets,Straight Leg Black & White Striped Clothes",S$30.99,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,"页面状态为 fetch_failed，跳过 Description 解析：TargetClosedError: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://sg.shein.com/SHEIN-Essnce-3pcs-Set-Women-s-Blue-And-White-Stripe-Nautical-Style-Casual-Summer-Vacation-Waist-Tie-Pants-With-Pockets-Straight-Leg-Black-White-Striped-Clothes-p-149061645.",2026-06-07T11:38:38+08:00,fetch_failed,"TargetClosedError: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://sg.shein.com/SHEIN-Essnce-3pcs-Set-Women-s-Blue-And-White-Stripe-Nautical-Style-Casual-Summer-Vacation-Waist-Tie-Pants-With-Pockets-Straight-Leg-Black-White-Striped-Clothes-p-149061645.",skipped_due_to_page_status,D:\V2\data\debug\v2_9d1_50_sold_products\149061645.html,D:\V2\data\debug\v2_9d1_50_sold_products\149061645_visible_text.txt,D:\V2\data\debug\v2_9d1_50_sold_products\149061645_description_raw_text.txt,fast_to_stable_empty_detail_retry,57.47,0.01,0.06,57.69,21.47,2,True,0.00,0,1,20,True
