@@ -119,3 +119,7 @@ output/*/index.html
 docs/_build
 public/
 web/
+
+# V2.9D1C backfill backup files
+data/output/*.backup_*.csv
+data/output/*backup*.csv

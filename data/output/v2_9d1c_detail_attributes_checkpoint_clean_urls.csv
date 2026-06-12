@@ -1,0 +1,795 @@
+﻿product_id,product_url,final_url,source_page,appear_count,appear_pages,sales_tag,is_real_sales_tag,title,price,sku,product_create_date,product_create_date_digits,product_create_date_parse_status,product_create_date_parse_reason,color,material,composition,fabric_elasticity,fit_type,pattern_type,style,occasion,details,type,length,neckline,sleeve_length,sleeve_type,waist_line,closure_type,placket,pockets,body,hem_shaped,lined_for_added_warmth,features,sheer,temperature,festivals,attribute_count,attribute_keys,attributes_json,raw_description_text,crawl_time,page_status,status_reason,parse_status,html_saved_path,visible_text_saved_path,description_raw_text_saved_path,fetch_mode,fetch_seconds,save_seconds,parse_seconds,product_total_seconds,detail_dwell_seconds,inter_sleep_seconds,attempt_count,captcha_wait_used,captcha_wait_seconds,recovery_used,manual_wait_seconds,stable_success_streak,consecutive_failures,fast_mode_min_cycle_seconds,frequency_guard_enabled
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,https://sg.shein.com/risk/challenge?captcha_type=909&redirection=https%3A%2F%2Fsg.shein.com%2F2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html&risk-id=E4839596580852526208,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$12.49,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,页面状态为 blocked_or_verify，跳过 Description 解析：明确验证码页面,2026-06-11T10:57:32+08:00,blocked_or_verify,明确验证码页面,skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_description_raw_text.txt,stable,90.13,0.01,0.06,90.37,,0.00,1,False,0.00,False,0.00,0,1,20,True
+209903633,https://sg.shein.com/SuriyaCove-Retro-American-Y2K-Style-Minimalist-Women-Sweatpants-p-209903633.html,https://sg.shein.com/SuriyaCove-Retro-American-Y2K-Style-Minimalist-Women-Sweatpants-p-209903633.html,1,3,"1,2",29.1k+ sold,TRUE,SuriyaCove Retro American Y2K Style Minimalist Women Sweatpants,S$14.99,sz25062526684233693,2025-06-25,250625,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Light Grey,Knitted Fabric,100% Polyester,Slight Stretch,Loose,Plain,Casual,"Home, Daily","Pocket, Drawstring",Wide Leg,Long,,,,High Waist,Elastic Waist,,Yes,Unlined,,No,,No,Late Fall (10-17/50-63),,19,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Color,Type,Waist Line,Length,Fit Type,Temperature,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Closure Type"": ""Elastic Waist"", ""Details"": ""Pocket, Drawstring"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Home, Daily"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""Yes"", ""Color"": ""Light Grey"", ""Type"": ""Wide Leg"", ""Waist Line"": ""High Waist"", ""Length"": ""Long"", ""Fit Type"": ""Loose"", ""Temperature"": ""Late Fall (10-17/50-63)"", ""Fabric Elasticity"": ""Slight Stretch"", ""Material"": ""Knitted Fabric"", ""Composition"": ""100% Polyester"", ""Care Instructions"": ""Machine wash, do not dry clean,wash with the soft detergent"", ""Sheer"": ""No""}","Closure Type: Elastic Waist
+Details: Pocket, Drawstring
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Home, Daily
+Lined For Added Warmth: No
+Pockets: Yes
+Color: Light Grey
+Type: Wide Leg
+Waist Line: High Waist
+Length: Long
+Fit Type: Loose
+Temperature: Late Fall (10-17/50-63)
+Fabric Elasticity: Slight Stretch
+Material: Knitted Fabric
+Composition: 100% Polyester
+Care Instructions: Machine wash, do not dry clean,wash with the soft detergent
+Sheer: No",2026-06-11T10:59:03+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\209903633.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\209903633_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\209903633_description_raw_text.txt,fast,23.77,0.01,0.05,23.97,,8.70,1,False,0.00,False,0.00,0,0,20,True
+10887023,https://sg.shein.com/SHEIN-LUNE-Shirred-Waist-Wide-Leg-Pants-Teacher-Outfits-For-Women-p-10887023.html,https://sg.shein.com/SHEIN-LUNE-Shirred-Waist-Wide-Leg-Pants-Teacher-Outfits-For-Women-p-10887023.html,3,3,"3,5,9",17k+ sold,TRUE,"SHEIN LUNE Shirred Waist Wide Leg Pants,Teacher Outfits For Women",S$10.49,sw2206209938384828,2022-06-20,220620,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Black,Fabric,100% Polyester,Non-Stretch,Loose,Plain,Casual,Daily,Shirred,Wide Leg,Capris,,,,High Waist,Elastic Waist,,No,Unlined,,No,,No,Spring/Fall (18-25/63-77),Teachers' Day,20,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Temperature,Sheer","{""Closure Type"": ""Elastic Waist"", ""Details"": ""Shirred"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Teachers' Day"", ""Color"": ""Black"", ""Type"": ""Wide Leg"", ""Waist Line"": ""High Waist"", ""Length"": ""Capris"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Fabric"", ""Composition"": ""100% Polyester"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Temperature"": ""Spring/Fall (18-25/63-77)"", ""Sheer"": ""No""}","Closure Type: Elastic Waist
+Details: Shirred
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Daily
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Teachers' Day
+Color: Black
+Type: Wide Leg
+Waist Line: High Waist
+Length: Capris
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Material: Fabric
+Composition: 100% Polyester
+Care Instructions: Machine wash or professional dry clean
+Temperature: Spring/Fall (18-25/63-77)
+Sheer: No",2026-06-11T10:59:35+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\10887023.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\10887023_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\10887023_description_raw_text.txt,fast,12.31,0.01,0.06,12.59,,9.93,1,False,0.00,False,0.00,0,0,20,True
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,https://sg.shein.com/risk/challenge?captcha_type=909&redirection=https%3A%2F%2Fsg.shein.com%2F2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html&risk-id=E4839601006463991808,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$12.49,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,页面状态为 blocked_or_verify，跳过 Description 解析：明确验证码页面,2026-06-11T11:06:20+08:00,blocked_or_verify,明确验证码页面,skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_description_raw_text.txt,stable,90.05,0.00,0.00,90.07,,0.00,1,False,0.00,False,0.00,0,1,20,True
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$12.49,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,页面状态为 timeout，跳过 Description 解析：页面请求超时,2026-06-11T11:28:26+08:00,timeout,页面请求超时,skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_description_raw_text.txt,stable,90.14,0.01,0.03,90.25,,5.81,1,False,0.00,False,0.00,0,0,20,True
+149061645,https://sg.shein.com/SHEIN-Essnce-3pcs-Set-Women-s-Blue-And-White-Stripe-Nautical-Style-Casual-Summer-Vacation-Waist-Tie-Pants-With-Pockets-Straight-Leg-Black-White-Striped-Clothes-p-149061645.html,https://sg.shein.com/SHEIN-Essnce-3pcs-Set-Women-s-Blue-And-White-Stripe-Nautical-Style-Casual-Summer-Vacation-Waist-Tie-Pants-With-Pockets-Straight-Leg-Black-White-Striped-Clothes-p-149061645.html,8,3,"8,9,10",14.1k+ sold,TRUE,"SHEIN Essnce 3pcs Set Women's Blue And White Stripe Nautical Style Casual Summer Vacation Waist Tie Pants With Pockets,Straight Leg Black & White Striped Clothes",S$30.99,sz25080637211179846,2025-08-06,250806,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Multicolor,Polyester,100% Polyester,Non-Stretch,Loose,Striped,Casual,Daily,"Drawstring, Knot",Wide Leg,,,,,High Waist,Elastic Waist,,No,,,No,,No,,"Teachers' Day, Independence Day",21,"Closure Type,Details,Pants Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Pants Length,Fabric Elasticity,Fit Type,Pants Material,Pants Composition,Care Instructions,Sheer,Material,Composition","{""Closure Type"": ""Elastic Waist"", ""Details"": ""Drawstring, Knot"", ""Pants Body"": ""Unlined"", ""Pattern Type"": ""Striped"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Teachers' Day, Independence Day"", ""Color"": ""Multicolor"", ""Type"": ""Wide Leg"", ""Waist Line"": ""High Waist"", ""Pants Length"": ""Long"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Pants Material"": ""Polyester"", ""Pants Composition"": ""100% Polyester"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No"", ""Material"": ""Polyester"", ""Composition"": ""100% Polyester""}","Closure Type: Elastic Waist
+Details: Drawstring, Knot
+Pants Body: Unlined
+Pattern Type: Striped
+Style: Casual
+Occasion: Daily
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Teachers' Day, Independence Day
+Color: Multicolor
+Type: Wide Leg
+Waist Line: High Waist
+Pants Length: Long
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Pants Material: Polyester
+Pants Composition: 100% Polyester
+Care Instructions: Machine wash or professional dry clean
+Sheer: No
+Material: Polyester
+Composition: 100% Polyester",2026-06-11T11:30:02+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\149061645.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\149061645_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\149061645_description_raw_text.txt,fast,20.68,0.01,0.03,20.77,,6.52,1,False,0.00,False,0.00,0,0,20,True
+26680307,https://sg.shein.com/Olithes-3pcs-set-Ladies-Solid-Color-Strapless-Top-p-26680307.html,https://sg.shein.com/Olithes-3pcs-set-Ladies-Solid-Color-Strapless-Top-p-26680307.html,2,3,"2,4,5",12.6k+ sold,TRUE,Olithes 3pcs/set Ladies' Solid Color Strapless Top,S$8.49,sz2311035011931502,2023-11-03,231103,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Multicolor,Knitted Fabric,"95% Polyester,5% Elastane",Medium Stretch,Slim Fit,Plain,Casual,,Rib-Knit,,,Strapless,,Regular Sleeve,,,,,,Regular,No,,Semi-Sheer,,Oktoberfest in Munich,19,"Details,Tank Tops & Camis Body,Neckline,Pattern Type,Sleeve Type,Style,Hem Shaped,Lined For Added Warmth,Festivals,Color,Tank Tops & Camis Length,Fit Type,Tank Tops & Camis Material,Sheer,Tank Tops & Camis Composition,Fabric Elasticity,Care Instructions,Material,Composition","{""Details"": ""Rib-Knit"", ""Tank Tops & Camis Body"": ""Unlined"", ""Neckline"": ""Strapless"", ""Pattern Type"": ""Plain"", ""Sleeve Type"": ""Regular Sleeve"", ""Style"": ""Casual"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Festivals"": ""Oktoberfest in Munich"", ""Color"": ""Multicolor"", ""Tank Tops & Camis Length"": ""Crop"", ""Fit Type"": ""Slim Fit"", ""Tank Tops & Camis Material"": ""Knitted Fabric"", ""Sheer"": ""Semi-Sheer"", ""Tank Tops & Camis Composition"": ""95% Polyester,5% Elastane"", ""Fabric Elasticity"": ""Medium Stretch"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Material"": ""Knitted Fabric"", ""Composition"": ""95% Polyester,5% Elastane""}","Details: Rib-Knit
+Tank Tops & Camis Body: Unlined
+Neckline: Strapless
+Pattern Type: Plain
+Sleeve Type: Regular Sleeve
+Style: Casual
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Festivals: Oktoberfest in Munich
+Color: Multicolor
+Tank Tops & Camis Length: Crop
+Fit Type: Slim Fit
+Tank Tops & Camis Material: Knitted Fabric
+Sheer: Semi-Sheer
+Tank Tops & Camis Composition: 95% Polyester,5% Elastane
+Fabric Elasticity: Medium Stretch
+Care Instructions: Machine wash or professional dry clean
+Material: Knitted Fabric
+Composition: 95% Polyester,5% Elastane",2026-06-11T11:30:29+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\26680307.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\26680307_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\26680307_description_raw_text.txt,fast,12.41,0.01,0.02,12.49,,12.18,1,False,0.00,False,0.00,0,0,20,True
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,https://sg.shein.com/,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$12.49,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,"页面状态为 fetch_failed，跳过 Description 解析：TargetClosedError: Page.goto: Target page, context or browser has been closed",2026-06-11T11:45:31+08:00,fetch_failed,"TargetClosedError: Page.goto: Target page, context or browser has been closed",skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_description_raw_text.txt,stable,0.00,0.00,0.00,0.01,,4.80,1,False,0.00,False,0.00,0,1,20,True
+38235874,https://sg.shein.com/EMERY-ROSE-s-Women-s-Summer-Casual-Crew-Neck-Short-Sleeve-T-Shirt-Tops-Solid-Color-Black-And-White-Basics-Everyday-For-Work-Office-Party-p-38235874.html,https://sg.shein.com/,3,3,"3,5,10",12.6k+ sold,TRUE,"EMERY ROSE 's Women's Summer Casual Crew Neck Short Sleeve T-Shirt Tops,Solid Color Black And White Basics Everyday For Work Office, Party",S$11.99,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,"页面状态为 fetch_failed，跳过 Description 解析：TargetClosedError: Page.goto: Target page, context or browser has been closed",2026-06-11T11:45:36+08:00,fetch_failed,"TargetClosedError: Page.goto: Target page, context or browser has been closed",skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874_description_raw_text.txt,fast,0.00,0.00,0.00,0.01,,4.56,1,False,0.00,False,0.00,0,2,20,True
+445209541,https://sg.shein.com/Women-s-Casual-Short-Sleeve-Round-Neck-T-Shirt-Printed-Pattern-Soft-Comfortable-Fabric-Machine-Washable-Summer-Tops-p-445209541.html,https://sg.shein.com/,2,3,"2,7,8",8.7k+ sold,TRUE,"Women's Casual Short Sleeve Round Neck T-Shirt - Printed Pattern, Soft & Comfortable Fabric, Machine Washable, Summer Tops",S$5.99,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,"页面状态为 fetch_failed，跳过 Description 解析：TargetClosedError: Page.goto: Target page, context or browser has been closed",2026-06-11T11:45:41+08:00,fetch_failed,"TargetClosedError: Page.goto: Target page, context or browser has been closed",skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\445209541.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\445209541_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\445209541_description_raw_text.txt,fast,0.00,0.00,0.00,0.01,,3.02,1,False,0.00,False,0.00,0,3,20,True
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,https://sg.shein.com/risk/challenge?captcha_type=909&redirection=https%3A%2F%2Fsg.shein.com%2F2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html&risk-id=E4839690969813678208,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$12.49,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,页面状态为 blocked_or_verify，跳过 Description 解析：明确验证码页面,2026-06-11T14:04:53+08:00,blocked_or_verify,明确验证码页面,skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_description_raw_text.txt,stable,90.06,0.00,0.01,90.11,0.00,0.00,1,False,0.00,False,0.00,0,1,20,True
+38235874,https://sg.shein.com/EMERY-ROSE-s-Women-s-Summer-Casual-Crew-Neck-Short-Sleeve-T-Shirt-Tops-Solid-Color-Black-And-White-Basics-Everyday-For-Work-Office-Party-p-38235874.html,https://sg.shein.com/risk/challenge?captcha_type=909&redirection=https%3A%2F%2Fsg.shein.com%2FEMERY-ROSE-s-Women-s-Summer-Casual-Crew-Neck-Short-Sleeve-T-Shirt-Tops-Solid-Color-Black-And-White-Basics-Everyday-For-Work-Office-Party-p-38235874.html&risk-id=E4839691620073400449,3,3,"3,5,10",12.6k+ sold,TRUE,"EMERY ROSE 's Women's Summer Casual Crew Neck Short Sleeve T-Shirt Tops,Solid Color Black And White Basics Everyday For Work Office, Party",S$11.99,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,页面状态为 blocked_or_verify，跳过 Description 解析：明确验证码页面,2026-06-11T14:06:23+08:00,blocked_or_verify,明确验证码页面,skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874_description_raw_text.txt,fast,3.66,0.00,0.00,3.70,0.00,0.00,1,False,0.00,False,0.00,0,2,20,True
+445209541,https://sg.shein.com/Women-s-Casual-Short-Sleeve-Round-Neck-T-Shirt-Printed-Pattern-Soft-Comfortable-Fabric-Machine-Washable-Summer-Tops-p-445209541.html,https://sg.shein.com/risk/challenge?captcha_type=909&redirection=https%3A%2F%2Fsg.shein.com%2FWomen-s-Casual-Short-Sleeve-Round-Neck-T-Shirt-Printed-Pattern-Soft-Comfortable-Fabric-Machine-Washable-Summer-Tops-p-445209541.html&risk-id=E4839691651354499072,2,3,"2,7,8",8.7k+ sold,TRUE,"Women's Casual Short Sleeve Round Neck T-Shirt - Printed Pattern, Soft & Comfortable Fabric, Machine Washable, Summer Tops",S$5.99,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,页面状态为 blocked_or_verify，跳过 Description 解析：明确验证码页面,2026-06-11T14:06:27+08:00,blocked_or_verify,明确验证码页面,skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\445209541.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\445209541_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\445209541_description_raw_text.txt,fast,18.03,0.00,0.00,18.06,0.00,0.00,1,False,0.00,False,0.00,0,3,20,True
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$12.49,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,页面状态为 timeout，跳过 Description 解析：页面请求超时,2026-06-11T14:46:27+08:00,timeout,页面请求超时,skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_description_raw_text.txt,stable,90.22,0.01,0.08,90.48,0.00,4.82,1,False,0.00,False,0.00,0,0,20,True
+38235874,https://sg.shein.com/EMERY-ROSE-s-Women-s-Summer-Casual-Crew-Neck-Short-Sleeve-T-Shirt-Tops-Solid-Color-Black-And-White-Basics-Everyday-For-Work-Office-Party-p-38235874.html,https://sg.shein.com/EMERY-ROSE-s-Women-s-Summer-Casual-Crew-Neck-Short-Sleeve-T-Shirt-Tops-Solid-Color-Black-And-White-Basics-Everyday-For-Work-Office-Party-p-38235874.html,3,3,"3,5,10",12.6k+ sold,TRUE,"EMERY ROSE 's Women's Summer Casual Crew Neck Short Sleeve T-Shirt Tops,Solid Color Black And White Basics Everyday For Work Office, Party",S$11.99,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,页面状态为 timeout，跳过 Description 解析：页面请求超时,2026-06-11T14:48:03+08:00,timeout,页面请求超时,skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874_description_raw_text.txt,fast,18.05,0.00,0.01,18.11,0.00,3.72,1,False,0.00,False,0.00,0,0,20,True
+445209541,https://sg.shein.com/Women-s-Casual-Short-Sleeve-Round-Neck-T-Shirt-Printed-Pattern-Soft-Comfortable-Fabric-Machine-Washable-Summer-Tops-p-445209541.html,https://sg.shein.com/Women-s-Casual-Short-Sleeve-Round-Neck-T-Shirt-Printed-Pattern-Soft-Comfortable-Fabric-Machine-Washable-Summer-Tops-p-445209541.html,2,3,"2,7,8",8.7k+ sold,TRUE,"Women's Casual Short Sleeve Round Neck T-Shirt - Printed Pattern, Soft & Comfortable Fabric, Machine Washable, Summer Tops",S$5.99,sz251125611164160066,2025-11-25,251125,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Yellow,Polyester,"95% Polyester, 5% Elastane",Slight Stretch,Regular Fit,Letter,Casual,"Vacation, Home, Daily, Street, Sports & Work out",,,Regular,Round Neck,Short Sleeve,Drop Shoulder,,,,No,,Regular,No,"Great quality, Comfortable, Soft",No,,"Carnivals, Easter, Ramadan, Independence Day, St. Patrick's Day",21,"Features,Pattern Type,Sleeve Type,Hem Shaped,Lined For Added Warmth,Pockets,Festivals,Color,Style,Occasion,Neckline,Sleeve Length,Length,Fit Type,Fabric Elasticity,Coating,Material,Composition,Care Instructions,Sheer,Number of Pieces","{""Features"": ""Great quality, Comfortable, Soft"", ""Pattern Type"": ""Letter"", ""Sleeve Type"": ""Drop Shoulder"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Carnivals, Easter, Ramadan, Independence Day, St. Patrick's Day"", ""Color"": ""Yellow"", ""Style"": ""Casual"", ""Occasion"": ""Vacation, Home, Daily, Street, Sports & Work out"", ""Neckline"": ""Round Neck"", ""Sleeve Length"": ""Short Sleeve"", ""Length"": ""Regular"", ""Fit Type"": ""Regular Fit"", ""Fabric Elasticity"": ""Slight Stretch"", ""Coating"": ""95% Polyester, 5% Spandex"", ""Material"": ""Polyester"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No"", ""Number of Pieces"": ""1 Piece Set""}","Features: Great quality, Comfortable, Soft
+Pattern Type: Letter
+Sleeve Type: Drop Shoulder
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Carnivals, Easter, Ramadan, Independence Day, St. Patrick's Day
+Color: Yellow
+Style: Casual
+Occasion: Vacation, Home, Daily, Street, Sports & Work out
+Neckline: Round Neck
+Sleeve Length: Short Sleeve
+Length: Regular
+Fit Type: Regular Fit
+Fabric Elasticity: Slight Stretch
+Coating: 95% Polyester, 5% Spandex
+Material: Polyester
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No
+Number of Pieces: 1 Piece Set",2026-06-11T14:48:24+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\445209541.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\445209541_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\445209541_description_raw_text.txt,fast,31.49,0.01,0.05,31.64,17.56,5.85,1,False,0.00,False,0.00,0,0,20,True
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$12.49,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,页面状态为 timeout，跳过 Description 解析：页面请求超时,2026-06-11T16:26:48+08:00,timeout,页面请求超时,skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_description_raw_text.txt,captcha_cleared_stable_retry,47.75,0.00,0.01,47.80,0.00,34.60,2,True,36.51,True,0.00,0,0,20,True
+38235874,https://sg.shein.com/EMERY-ROSE-s-Women-s-Summer-Casual-Crew-Neck-Short-Sleeve-T-Shirt-Tops-Solid-Color-Black-And-White-Basics-Everyday-For-Work-Office-Party-p-38235874.html,https://sg.shein.com/EMERY-ROSE-s-Women-s-Summer-Casual-Crew-Neck-Short-Sleeve-T-Shirt-Tops-Solid-Color-Black-And-White-Basics-Everyday-For-Work-Office-Party-p-38235874.html,3,3,"3,5,10",12.6k+ sold,TRUE,"EMERY ROSE 's Women's Summer Casual Crew Neck Short Sleeve T-Shirt Tops,Solid Color Black And White Basics Everyday For Work Office, Party",S$11.99,sz2406277748638001,2024-06-27,240627,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Multicolor,Knitted Fabric,"95% Polyester, 5% Elastane",Slight Stretch,Slim Fit,,Casual,"Home, Daily",,,Regular,Round Neck,Short Sleeve,Regular Sleeve,,,,No,Unlined,Regular,No,,Semi-Sheer,,Oktoberfest in Munich,18,"Body,Sleeve Type,Hem Shaped,Lined For Added Warmth,Pockets,Festivals,Color,Style,Occasion,Neckline,Sleeve Length,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Body"": ""Unlined"", ""Sleeve Type"": ""Regular Sleeve"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Oktoberfest in Munich"", ""Color"": ""Multicolor"", ""Style"": ""Casual"", ""Occasion"": ""Home, Daily"", ""Neckline"": ""Round Neck"", ""Sleeve Length"": ""Short Sleeve"", ""Length"": ""Regular"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""Slight Stretch"", ""Material"": ""Knitted Fabric"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""Semi-Sheer""}","Body: Unlined
+Sleeve Type: Regular Sleeve
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Oktoberfest in Munich
+Color: Multicolor
+Style: Casual
+Occasion: Home, Daily
+Neckline: Round Neck
+Sleeve Length: Short Sleeve
+Length: Regular
+Fit Type: Slim Fit
+Fabric Elasticity: Slight Stretch
+Material: Knitted Fabric
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: Semi-Sheer",2026-06-11T16:28:03+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\38235874_description_raw_text.txt,fast,37.32,0.01,0.04,37.55,17.78,6.95,1,False,0.00,False,0.00,0,0,20,True
+417618841,https://sg.shein.com/Women-s-Casual-Bohemian-Style-White-Elastic-Waist-Pocket-Linen-Wide-Leg-Pants-Summer-Spring-p-417618841.html,https://sg.shein.com/Women-s-Casual-Bohemian-Style-White-Elastic-Waist-Pocket-Linen-Wide-Leg-Pants-Summer-Spring-p-417618841.html,3,3,"3,4,6",5k+ sold,TRUE,"Women's Casual Bohemian Style White Elastic Waist Pocket Linen Wide Leg Pants, Summer Spring",S$11.49,sz260110115456696280052,2026-01-10,260110,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Apricot,Fabric,100% Polyester,Non-Stretch,Loose,Striped,Casual,"Vacation, Airport",Pocket,Wide Leg,Long,,,,Natural(Mid Waist),Elastic Waist,,Yes,Unlined,,No,,No,,"Ramadan, Independence Day, Id al-Adha, Eid al-Fitr",20,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Sheer,Lining","{""Closure Type"": ""Elastic Waist"", ""Details"": ""Pocket"", ""Body"": ""Unlined"", ""Pattern Type"": ""Striped"", ""Style"": ""Casual"", ""Occasion"": ""Vacation, Airport"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""Yes"", ""Festivals"": ""Ramadan, Independence Day, Id al-Adha, Eid al-Fitr"", ""Color"": ""Apricot"", ""Type"": ""Wide Leg"", ""Waist Line"": ""Natural(Mid Waist)"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Fabric"", ""Composition"": ""100% Polyester"", ""Care Instructions"": ""Hand wash or professional dry clean"", ""Sheer"": ""No"", ""Lining"": ""100% Polyester""}","Closure Type: Elastic Waist
+Details: Pocket
+Body: Unlined
+Pattern Type: Striped
+Style: Casual
+Occasion: Vacation, Airport
+Lined For Added Warmth: No
+Pockets: Yes
+Festivals: Ramadan, Independence Day, Id al-Adha, Eid al-Fitr
+Color: Apricot
+Type: Wide Leg
+Waist Line: Natural(Mid Waist)
+Length: Long
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Material: Fabric
+Composition: 100% Polyester
+Care Instructions: Hand wash or professional dry clean
+Sheer: No
+Lining: 100% Polyester",2026-06-11T16:28:48+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\417618841.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\417618841_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\417618841_description_raw_text.txt,fast,41.61,0.01,0.04,41.84,16.71,6.29,1,False,0.00,False,0.00,0,0,20,True
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,https://sg.shein.com/risk/challenge?captcha_type=909&redirection=https%3A%2F%2Fsg.shein.com%2F2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html&risk-id=E4839790619732313088,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$12.49,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,页面状态为 blocked_or_verify，跳过 Description 解析：详情页验证码页面,2026-06-11T17:23:04+08:00,blocked_or_verify,detail_captcha_timeout_300_seconds,skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_description_raw_text.txt,stable,5.02,0.00,0.01,5.06,0.00,24.15,1,True,300.71,False,0.00,0,1,20,True
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,chrome-error://chromewebdata/,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$12.49,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,"页面状态为 fetch_failed，跳过 Description 解析：Error: Page.goto: net::ERR_EMPTY_RESPONSE at https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html
+Call log:
+  - navigating to ""https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-",2026-06-11T17:33:59+08:00,fetch_failed,"Error: Page.goto: net::ERR_EMPTY_RESPONSE at https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html
+Call log:
+  - navigating to ""https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-",skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_description_raw_text.txt,captcha_cleared_stable_retry,61.49,0.00,0.00,61.50,0.00,31.12,2,True,210.85,True,0.00,0,1,20,True
+57883154,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,https://sg.shein.com/2025-Autumn-Winter-Women-Wide-Leg-High-Waist-Casual-Loose-Trousers-Versatile-Suit-Pants-Black-Summer-p-57883154.html,2,3,"2,7,8",34.1k+ sold,TRUE,"2025 Autumn/Winter Women Wide Leg High Waist Casual Loose Trousers, Versatile Suit Pants Black Summer",S$12.49,sz25020983472487747,2025-02-09,250209,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Black,Knitted Fabric,"95% Polyester, 5% Elastane",Non-Stretch,Loose,,Casual,Daily,Rib-Knit,Straight Leg,Long,,,,Natural(Mid Waist),Zipper Fly,,No,Unlined,,No,Comfortable,Yes,,Mother's Day,19,"Features,Closure Type,Details,Body,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Sheer","{""Features"": ""Comfortable"", ""Closure Type"": ""Zipper Fly"", ""Details"": ""Rib-Knit"", ""Body"": ""Unlined"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Mother's Day"", ""Color"": ""Black"", ""Type"": ""Straight Leg"", ""Waist Line"": ""Natural(Mid Waist)"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Knitted Fabric"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""Yes""}","Features: Comfortable
+Closure Type: Zipper Fly
+Details: Rib-Knit
+Body: Unlined
+Style: Casual
+Occasion: Daily
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Mother's Day
+Color: Black
+Type: Straight Leg
+Waist Line: Natural(Mid Waist)
+Length: Long
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Material: Knitted Fabric
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: Yes",2026-06-11T17:39:56+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57883154_description_raw_text.txt,captcha_cleared_stable_retry,23.74,0.01,0.03,23.95,0.00,26.75,2,True,61.66,True,0.00,0,0,20,True
+440608961,https://sg.shein.com/1pc-Women-s-Summer-Loose-Crew-Neck-Short-Sleeve-T-Shirt-Matcha-Coffee-Latte-Themed-Print-Suitable-For-Vacation-Office-Outing-Daily-Date-Party-Gathering-Street-Carnival-Music-Festival-Valentine-s-Day-Party-Occasions-Casual-p-440608961.html,https://sg.shein.com/1pc-Women-s-Summer-Loose-Crew-Neck-Short-Sleeve-T-Shirt-Matcha-Coffee-Latte-Themed-Print-Suitable-For-Vacation-Office-Outing-Daily-Date-Party-Gathering-Street-Carnival-Music-Festival-Valentine-s-Day-Party-Occasions-Casual-p-440608961.html,2,3,"2,7,9",2.7k+ sold,TRUE,"1pc Women's Summer Loose Crew Neck Short Sleeve T-Shirt, Matcha Coffee Latte Themed Print, Suitable For Vacation, Office, Outing, Daily, Date, Party, Gathering, Street, Carnival, Music Festival, Valentine's Day, Party Occasions Casual",S$6.49,sz260321224209847031562,2026-03-21,260321,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Yellow,Polyester,"95% Polyester, 5% Elastane",Slight Stretch,Loose,"Letter, Food & Beverage",Casual,"Holiday, School, Office, Daily, Dating",,,Regular,Round Neck,Short Sleeve,Drop Shoulder,,,,No,No,Regular,No,"Great quality, Soft",No,,"Thanksgiving Day, Back-to-School, Commencement/Graduation Season",22,"Body,Pattern Type,Sleeve Type,Hem Shaped,Lined For Added Warmth,Pockets,Festivals,Color,Style,Occasion,Neckline,Sleeve Length,Features,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Belt,Sheer,Number of Pieces","{""Body"": ""No"", ""Pattern Type"": ""Letter, Food & Beverage"", ""Sleeve Type"": ""Drop Shoulder"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Thanksgiving Day, Back-to-School, Commencement/Graduation Season"", ""Color"": ""Yellow"", ""Style"": ""Casual"", ""Occasion"": ""Holiday, School, Office, Daily, Dating"", ""Neckline"": ""Round Neck"", ""Sleeve Length"": ""Short Sleeve"", ""Features"": ""Great quality, Soft"", ""Length"": ""Regular"", ""Fit Type"": ""Loose"", ""Fabric Elasticity"": ""Slight Stretch"", ""Material"": ""Polyester"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Belt"": ""No"", ""Sheer"": ""No"", ""Number of Pieces"": ""1 Piece Set""}","Body: No
+Pattern Type: Letter, Food & Beverage
+Sleeve Type: Drop Shoulder
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Thanksgiving Day, Back-to-School, Commencement/Graduation Season
+Color: Yellow
+Style: Casual
+Occasion: Holiday, School, Office, Daily, Dating
+Neckline: Round Neck
+Sleeve Length: Short Sleeve
+Features: Great quality, Soft
+Length: Regular
+Fit Type: Loose
+Fabric Elasticity: Slight Stretch
+Material: Polyester
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Belt: No
+Sheer: No
+Number of Pieces: 1 Piece Set",2026-06-11T17:40:36+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\440608961.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\440608961_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\440608961_description_raw_text.txt,fast,36.18,0.01,0.04,36.34,18.89,8.63,1,False,0.00,False,0.00,0,0,20,True
+469428072,https://sg.shein.com/Divinelle-White-And-Brown-Striped-Bowknot-Print-Sweatshirt-For-Women-Autumn-Casual-School-Back-To-School-Round-Neck-Long-Sleeve-Loose-Lightweight-Pullover-p-469428072.html,https://sg.shein.com/Divinelle-White-And-Brown-Striped-Bowknot-Print-Sweatshirt-For-Women-Autumn-Casual-School-Back-To-School-Round-Neck-Long-Sleeve-Loose-Lightweight-Pullover-p-469428072.html,4,3,"4,5,6",805 sold,TRUE,"Divinelle White And Brown Striped Bowknot Print Sweatshirt For Women,Autumn Casual School Back-To-School Round Neck Long Sleeve Loose Lightweight Pullover",S$40,sz260509164516961565200,2026-05-09,260509,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,,,,,,,,,,,,,,,,,,,,,,,,,,0,,{},,2026-06-11T17:41:21+08:00,success,页面超时但商品主体和 Description 属性已加载，保留成功结果,description_not_found,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\469428072.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\469428072_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\469428072_description_raw_text.txt,fast,18.16,0.00,0.02,18.25,0.00,18.55,1,False,0.00,False,0.00,0,1,20,True
+155685507,https://sg.shein.com/SHEIN-LUNE-Women-s-Casual-Solid-Color-V-Neck-Flare-Sleeve-Twist-Front-Blouse-Spring-Autumn-Brown-Top-Dark-Chocolate-Coffee-Tie-p-155685507.html,https://sg.shein.com/SHEIN-LUNE-Women-s-Casual-Solid-Color-V-Neck-Flare-Sleeve-Twist-Front-Blouse-Spring-Autumn-Brown-Top-Dark-Chocolate-Coffee-Tie-p-155685507.html,2,2,"2,5",90k+ sold,TRUE,"SHEIN LUNE Women's Casual Solid Color V-Neck Flare Sleeve Twist Front Blouse, Spring/Autumn Brown Top Dark Chocolate Coffee Tie",S$9.49,sz25052288859851331,2025-05-22,250522,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Coffee Brown,Knitted Fabric,"99% Polyester, 1% Elastane",Medium Stretch,Slim Fit,,Casual,Daily,"Knot, Rib-Knit",,Regular,V neck,Long Sleeve,Flare Sleeve,,,,No,Unlined,Regular,No,,No,,Teachers' Day,20,"Body Shape,Details,Body,Neckline,Sleeve Type,Style,Occasion,Hem Shaped,Lined For Added Warmth,Pockets,Festivals,Color,Sleeve Length,Length,Fit Type,Sheer,Fabric Elasticity,Material,Composition,Care Instructions","{""Body Shape"": ""Regular Shapes"", ""Details"": ""Knot, Rib-Knit"", ""Body"": ""Unlined"", ""Neckline"": ""V neck"", ""Sleeve Type"": ""Flare Sleeve"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Teachers' Day"", ""Color"": ""Coffee Brown"", ""Sleeve Length"": ""Long Sleeve"", ""Length"": ""Regular"", ""Fit Type"": ""Slim Fit"", ""Sheer"": ""No"", ""Fabric Elasticity"": ""Medium Stretch"", ""Material"": ""Knitted Fabric"", ""Composition"": ""99% Polyester, 1% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean""}","Body Shape: Regular Shapes
+Details: Knot, Rib-Knit
+Body: Unlined
+Neckline: V neck
+Sleeve Type: Flare Sleeve
+Style: Casual
+Occasion: Daily
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Teachers' Day
+Color: Coffee Brown
+Sleeve Length: Long Sleeve
+Length: Regular
+Fit Type: Slim Fit
+Sheer: No
+Fabric Elasticity: Medium Stretch
+Material: Knitted Fabric
+Composition: 99% Polyester, 1% Elastane
+Care Instructions: Machine wash or professional dry clean",2026-06-11T17:41:58+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\155685507.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\155685507_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\155685507_description_raw_text.txt,fast,25.76,0.01,0.03,25.89,14.24,7.86,1,False,0.00,False,0.00,0,0,20,True
+208827936,https://sg.shein.com/Vela-Rue-Minimalist-Design-Jumpsuit-Thin-Solid-Color-Suit-Pants-With-Zipper-Hook-Closure-Flared-Leg-Slimming-Trousers-Fashion-All-Season-Spring-p-208827936.html,chrome-error://chromewebdata/,7,2,"7,8",90k+ sold,TRUE,"Vela Rue Minimalist Design Jumpsuit, Thin Solid Color Suit Pants With Zipper & Hook Closure, Flared Leg Slimming Trousers, Fashion All Season Spring",S$13.91,,,,failed,详情页 SKU 为空,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,"页面状态为 fetch_failed，跳过 Description 解析：Error: Page.goto: net::ERR_EMPTY_RESPONSE at https://sg.shein.com/Vela-Rue-Minimalist-Design-Jumpsuit-Thin-Solid-Color-Suit-Pants-With-Zipper-Hook-Closure-Flared-Leg-Slimming-Trousers-Fashion-All-Season-Spring-p-208827936.html
+Call log:
+  - navigating to ""https://sg.shein.com/Vela-Rue-Minimalist-Des",2026-06-11T17:42:51+08:00,fetch_failed,"Error: Page.goto: net::ERR_EMPTY_RESPONSE at https://sg.shein.com/Vela-Rue-Minimalist-Design-Jumpsuit-Thin-Solid-Color-Suit-Pants-With-Zipper-Hook-Closure-Flared-Leg-Slimming-Trousers-Fashion-All-Season-Spring-p-208827936.html
+Call log:
+  - navigating to ""https://sg.shein.com/Vela-Rue-Minimalist-Des",skipped_due_to_page_status,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\208827936.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\208827936_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\208827936_description_raw_text.txt,fast_to_stable_empty_detail_retry,18.95,0.00,0.00,18.99,0.00,5.94,2,False,0.00,True,0.00,0,1,20,True
+469428072,https://sg.shein.com/Divinelle-White-And-Brown-Striped-Bowknot-Print-Sweatshirt-For-Women-Autumn-Casual-School-Back-To-School-Round-Neck-Long-Sleeve-Loose-Lightweight-Pullover-p-469428072.html,https://sg.shein.com/Divinelle-White-And-Brown-Striped-Bowknot-Print-Sweatshirt-For-Women-Autumn-Casual-School-Back-To-School-Round-Neck-Long-Sleeve-Loose-Lightweight-Pullover-p-469428072.html,4,3,"4,5,6",805 sold,TRUE,"Divinelle White And Brown Striped Bowknot Print Sweatshirt For Women,Autumn Casual School Back-To-School Round Neck Long Sleeve Loose Lightweight Pullover",S$12.49,sz260509164516961565200,2026-05-09,260509,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Multicolor,Knitted Fabric,100% Polyester,Slight Stretch,Oversized,Animal,Casual,Daily,Patched,Pullovers,Regular,Round Neck,Long Sleeve,Drop Shoulder,,,,No,Unlined,Regular,Yes,,No,Spring/Fall (18-25/63-77),Valentine's Day,22,"Neckline,Pattern Type,Sleeve Type,Lined For Added Warmth,Hem Shaped,Pockets,Festivals,Color,Details,Style,Occasion,Type,Body,Sleeve Length,Sheer,Length,Fit Type,Fabric Elasticity,Composition,Material,Care Instructions,Temperature","{""Neckline"": ""Round Neck"", ""Pattern Type"": ""Animal"", ""Sleeve Type"": ""Drop Shoulder"", ""Lined For Added Warmth"": ""Yes"", ""Hem Shaped"": ""Regular"", ""Pockets"": ""No"", ""Festivals"": ""Valentine's Day"", ""Color"": ""Multicolor"", ""Details"": ""Patched"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Type"": ""Pullovers"", ""Body"": ""Unlined"", ""Sleeve Length"": ""Long Sleeve"", ""Sheer"": ""No"", ""Length"": ""Regular"", ""Fit Type"": ""Oversized"", ""Fabric Elasticity"": ""Slight Stretch"", ""Composition"": ""100% Polyester"", ""Material"": ""Knitted Fabric"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Temperature"": ""Spring/Fall (18-25/63-77)""}","Neckline: Round Neck
+Pattern Type: Animal
+Sleeve Type: Drop Shoulder
+Lined For Added Warmth: Yes
+Hem Shaped: Regular
+Pockets: No
+Festivals: Valentine's Day
+Color: Multicolor
+Details: Patched
+Style: Casual
+Occasion: Daily
+Type: Pullovers
+Body: Unlined
+Sleeve Length: Long Sleeve
+Sheer: No
+Length: Regular
+Fit Type: Oversized
+Fabric Elasticity: Slight Stretch
+Composition: 100% Polyester
+Material: Knitted Fabric
+Care Instructions: Machine wash or professional dry clean
+Temperature: Spring/Fall (18-25/63-77)",2026-06-12T10:48:44+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\469428072.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\469428072_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\469428072_description_raw_text.txt,captcha_cleared_stable_retry,14.54,0.01,0.17,14.94,0.00,31.35,2,True,193.22,True,0.00,0,0,20,True
+208827936,https://sg.shein.com/Vela-Rue-Minimalist-Design-Jumpsuit-Thin-Solid-Color-Suit-Pants-With-Zipper-Hook-Closure-Flared-Leg-Slimming-Trousers-Fashion-All-Season-Spring-p-208827936.html,https://sg.shein.com/Vela-Rue-Minimalist-Design-Jumpsuit-Thin-Solid-Color-Suit-Pants-With-Zipper-Hook-Closure-Flared-Leg-Slimming-Trousers-Fashion-All-Season-Spring-p-208827936.html,7,2,"7,8",90k+ sold,TRUE,"Vela Rue Minimalist Design Jumpsuit, Thin Solid Color Suit Pants With Zipper & Hook Closure, Flared Leg Slimming Trousers, Fashion All Season Spring",S$14.49,sz25080503829823271,2025-08-05,250805,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Burgundy,Polyester,"95% Polyester, 5% Elastane",Slight Stretch,Regular Fit,Plain,Casual,Daily,"Button, Pocket, Zipper",Straight Leg,Long,,,,High Waist,Zipper Fly,,Yes,Unlined,,No,,No,,"Ramadan, Id al-Adha, Eid al-Fitr",19,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Button, Pocket, Zipper"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""Yes"", ""Festivals"": ""Ramadan, Id al-Adha, Eid al-Fitr"", ""Color"": ""Burgundy"", ""Type"": ""Straight Leg"", ""Waist Line"": ""High Waist"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Slight Stretch"", ""Fit Type"": ""Regular Fit"", ""Material"": ""Polyester"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Button, Pocket, Zipper
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Daily
+Lined For Added Warmth: No
+Pockets: Yes
+Festivals: Ramadan, Id al-Adha, Eid al-Fitr
+Color: Burgundy
+Type: Straight Leg
+Waist Line: High Waist
+Length: Long
+Fabric Elasticity: Slight Stretch
+Fit Type: Regular Fit
+Material: Polyester
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No",2026-06-12T10:49:25+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\208827936.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\208827936_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\208827936_description_raw_text.txt,fast,26.83,0.01,0.07,27.01,13.98,8.38,1,False,0.00,False,0.00,0,0,20,True
+254270176,https://sg.shein.com/Vela-Rue-Minimalist-Design-Pants-Hook-Zipper-Closure-Thin-Solid-Green-Straight-Leg-Trousers-Flattering-Wide-Leg-Fashionable-All-Season-Spring-p-254270176.html,https://sg.shein.com/Vela-Rue-Minimalist-Design-Pants-Hook-Zipper-Closure-Thin-Solid-Green-Straight-Leg-Trousers-Flattering-Wide-Leg-Fashionable-All-Season-Spring-p-254270176.html,8,2,"8,9",90k+ sold,TRUE,"Vela Rue Minimalist Design Pants, Hook & Zipper Closure, Thin Solid Green Straight Leg Trousers, Flattering Wide Leg, Fashionable All Season Spring",S$14.49,sz25080503829803961,2025-08-05,250805,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Dark Green,Polyester,"95% Polyester, 5% Elastane",Slight Stretch,Regular Fit,Plain,Casual,Daily,"Button, Pocket, Zipper",Straight Leg,Long,,,,High Waist,Zipper Fly,,Yes,Unlined,,No,,No,,"Ramadan, Id al-Adha, Eid al-Fitr",19,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Button, Pocket, Zipper"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""Yes"", ""Festivals"": ""Ramadan, Id al-Adha, Eid al-Fitr"", ""Color"": ""Dark Green"", ""Type"": ""Straight Leg"", ""Waist Line"": ""High Waist"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Slight Stretch"", ""Fit Type"": ""Regular Fit"", ""Material"": ""Polyester"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Button, Pocket, Zipper
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Daily
+Lined For Added Warmth: No
+Pockets: Yes
+Festivals: Ramadan, Id al-Adha, Eid al-Fitr
+Color: Dark Green
+Type: Straight Leg
+Waist Line: High Waist
+Length: Long
+Fabric Elasticity: Slight Stretch
+Fit Type: Regular Fit
+Material: Polyester
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No",2026-06-12T10:50:00+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\254270176.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\254270176_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\254270176_description_raw_text.txt,fast,42.01,0.01,0.07,42.19,16.35,8.23,1,False,0.00,False,0.00,0,0,20,True
+317342804,https://sg.shein.com/Franclia-Women-s-High-Waist-Grey-Summer-Modest-Office-Skirt-Shorts-A-Line-Split-Hem-Textured-Soft-Fabric-Skorts-Fashionable-Casual-Commute-Versatile-Clothing-p-317342804.html,https://sg.shein.com/Franclia-Women-s-High-Waist-Grey-Summer-Modest-Office-Skirt-Shorts-A-Line-Split-Hem-Textured-Soft-Fabric-Skorts-Fashionable-Casual-Commute-Versatile-Clothing-p-317342804.html,8,2,"8,9",90k+ sold,TRUE,"Franclia Women's High Waist Grey Summer Modest Office Skirt Shorts,A-Line Split Hem Textured Soft Fabric Skorts,Fashionable Casual Commute Versatile Clothing",S$8.09,sz251023610117839025,2025-10-23,251023,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Grey,Woven Fabric,"83% Polyester, 13% Viscose, 4% Elastane",Non-Stretch,Regular Fit,Plain,Casual,"Beach, School","Split, Zipper",Straight Leg,Short,,,,Natural(Mid Waist),Zipper Fly,,No,Unlined,,,,No,,Halloween,18,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Pockets,Festivals,Color,Type,Waist Line,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Split, Zipper"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Beach, School"", ""Pockets"": ""No"", ""Festivals"": ""Halloween"", ""Color"": ""Grey"", ""Type"": ""Straight Leg"", ""Waist Line"": ""Natural(Mid Waist)"", ""Length"": ""Short"", ""Fit Type"": ""Regular Fit"", ""Fabric Elasticity"": ""Non-Stretch"", ""Material"": ""Woven Fabric"", ""Composition"": ""83% Polyester, 13% Viscose, 4% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Split, Zipper
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Beach, School
+Pockets: No
+Festivals: Halloween
+Color: Grey
+Type: Straight Leg
+Waist Line: Natural(Mid Waist)
+Length: Short
+Fit Type: Regular Fit
+Fabric Elasticity: Non-Stretch
+Material: Woven Fabric
+Composition: 83% Polyester, 13% Viscose, 4% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No",2026-06-12T10:50:51+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\317342804.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\317342804_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\317342804_description_raw_text.txt,fast,38.91,0.01,0.08,39.12,13.43,5.81,1,False,0.00,False,0.00,0,0,20,True
+350806443,https://sg.shein.com/Franclia-Fashionable-Casual-Commute-Versatile-Textured-Soft-Fabric-High-Waist-Slit-Gray-Women-Shorts-Skirt-Culottes-Hot-Pants-Spring-Autumn-p-350806443.html,https://sg.shein.com/Franclia-Fashionable-Casual-Commute-Versatile-Textured-Soft-Fabric-High-Waist-Slit-Gray-Women-Shorts-Skirt-Culottes-Hot-Pants-Spring-Autumn-p-350806443.html,8,2,"8,9",90k+ sold,TRUE,"Franclia Fashionable Casual Commute Versatile Textured Soft Fabric High Waist Slit Gray Women Shorts/Skirt/Culottes/Hot Pants, Spring/Autumn",S$10.49,sz251223214316493062407,2025-12-23,251223,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Brown,Woven Fabric,"76.5% Polyester, 21.3% Viscose, 2.2% Elastane",Non-Stretch,Regular Fit,Plain,Casual,"Beach, School","Split, Zipper",Straight Leg,Short,,,,Natural(Mid Waist),Zipper Fly,,No,Unlined,,,,No,,Halloween,18,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Pockets,Festivals,Color,Type,Waist Line,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Split, Zipper"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Beach, School"", ""Pockets"": ""No"", ""Festivals"": ""Halloween"", ""Color"": ""Brown"", ""Type"": ""Straight Leg"", ""Waist Line"": ""Natural(Mid Waist)"", ""Length"": ""Short"", ""Fit Type"": ""Regular Fit"", ""Fabric Elasticity"": ""Non-Stretch"", ""Material"": ""Woven Fabric"", ""Composition"": ""76.5% Polyester, 21.3% Viscose, 2.2% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Split, Zipper
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Beach, School
+Pockets: No
+Festivals: Halloween
+Color: Brown
+Type: Straight Leg
+Waist Line: Natural(Mid Waist)
+Length: Short
+Fit Type: Regular Fit
+Fabric Elasticity: Non-Stretch
+Material: Woven Fabric
+Composition: 76.5% Polyester, 21.3% Viscose, 2.2% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No",2026-06-12T10:51:36+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\350806443.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\350806443_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\350806443_description_raw_text.txt,fast,40.27,0.00,0.06,40.40,15.88,8.72,1,False,0.00,False,0.00,0,0,20,True
+365502654,https://sg.shein.com/Women-s-High-Waist-Slim-Fit-Wide-Leg-Pants-Bohemian-Street-Style-Suitable-For-Casual-Work-Commute-And-Vacation-In-Spring-Summer-Black-p-365502654.html,https://sg.shein.com/Women-s-High-Waist-Slim-Fit-Wide-Leg-Pants-Bohemian-Street-Style-Suitable-For-Casual-Work-Commute-And-Vacation-In-Spring-Summer-Black-p-365502654.html,3,2,"3,4",59.7k+ sold,TRUE,"Women's High Waist Slim Fit Wide Leg Pants | Bohemian Street Style | Suitable For Casual, Work Commute And Vacation In Spring/Summer Black",S$18.03,sz251023557454411772,2025-10-23,251023,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Black,Woven Fabric,"95% Polyester, 5% Elastane",Non-Stretch,Loose,Plain,Casual,"Night Out, Holiday, Wedding, Office, Daily","Pocket, Zipper",Wide Leg,Long,,,,High Waist,Zipper Fly,,Yes,Unlined,,No,,No,,"Christmas, Halloween, Ramadan, Id al-Adha, Eid al-Fitr",19,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Pocket, Zipper"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Night Out, Holiday, Wedding, Office, Daily"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""Yes"", ""Festivals"": ""Christmas, Halloween, Ramadan, Id al-Adha, Eid al-Fitr"", ""Color"": ""Black"", ""Type"": ""Wide Leg"", ""Waist Line"": ""High Waist"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Woven Fabric"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Pocket, Zipper
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Night Out, Holiday, Wedding, Office, Daily
+Lined For Added Warmth: No
+Pockets: Yes
+Festivals: Christmas, Halloween, Ramadan, Id al-Adha, Eid al-Fitr
+Color: Black
+Type: Wide Leg
+Waist Line: High Waist
+Length: Long
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Material: Woven Fabric
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No",2026-06-12T10:52:25+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\365502654.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\365502654_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\365502654_description_raw_text.txt,fast,35.28,0.01,0.08,35.48,18.44,8.19,1,False,0.00,False,0.00,0,0,20,True
+74403544,https://sg.shein.com/Sweetra-Women-s-Vintage-Elegant-Color-Woven-Jacquard-Pleated-Wide-Leg-Pants-For-Autumn-Winter-Fall-Cloth-For-Women-p-74403544.html,https://sg.shein.com/Sweetra-Women-s-Vintage-Elegant-Color-Woven-Jacquard-Pleated-Wide-Leg-Pants-For-Autumn-Winter-Fall-Cloth-For-Women-p-74403544.html,7,2,"7,8",51.5k+ sold,TRUE,"Sweetra Women's Vintage Elegant Color Woven Jacquard Pleated Wide Leg Pants, For Autumn/Winter Fall Cloth For Women",S$15.49,sz25042127292198155,2025-04-21,250421,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,White,Polyester,"95.0% Polyester, 5.0% Elastane",Non-Stretch,Loose,,Casual,,"Button, Zipper, Plicated",Wide Leg,Long,,,,Natural(Mid Waist),Zipper Fly,,No,Unlined,,No,,No,Spring/Fall (18-25/63-77),"Ramadan, Id al-Adha, Eid al-Fitr",18,"Closure Type,Details,Body,Style,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Temperature,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Button, Zipper, Plicated"", ""Body"": ""Unlined"", ""Style"": ""Casual"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Ramadan, Id al-Adha, Eid al-Fitr"", ""Color"": ""White"", ""Type"": ""Wide Leg"", ""Waist Line"": ""Natural(Mid Waist)"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Polyester"", ""Composition"": ""95.0% Polyester, 5.0% Elastane"", ""Care Instructions"": ""Hand wash or professional dry clean"", ""Temperature"": ""Spring/Fall (18-25/63-77)"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Button, Zipper, Plicated
+Body: Unlined
+Style: Casual
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Ramadan, Id al-Adha, Eid al-Fitr
+Color: White
+Type: Wide Leg
+Waist Line: Natural(Mid Waist)
+Length: Long
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Material: Polyester
+Composition: 95.0% Polyester, 5.0% Elastane
+Care Instructions: Hand wash or professional dry clean
+Temperature: Spring/Fall (18-25/63-77)
+Sheer: No",2026-06-12T10:53:09+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\74403544.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\74403544_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\74403544_description_raw_text.txt,fast,36.20,0.01,0.08,36.40,13.84,7.09,1,False,0.00,False,0.00,0,0,20,True
+352082325,https://sg.shein.com/Elamini-Women-s-Vintage-Textured-Relaxed-Fit-Low-Waist-Casual-Pants-Slimming-Solid-Color-Straight-Leg-Trousers-Versatile-For-Spring-p-352082325.html,https://sg.shein.com/Elamini-Women-s-Vintage-Textured-Relaxed-Fit-Low-Waist-Casual-Pants-Slimming-Solid-Color-Straight-Leg-Trousers-Versatile-For-Spring-p-352082325.html,6,2,"6,9",45.6k+ sold,TRUE,"SHEIN Unity Women's Vintage Textured Relaxed Fit Low Waist Casual Pants, Slimming Solid Color Straight Leg Trousers, Versatile For Spring",S$12.99,sz251224175883522682699,2025-12-24,251224,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Brown,Knitted Fabric,"95% Polyester, 5% Elastane",Slight Stretch,Loose,Plain,Casual,"Holiday, School, Vacation, Office, Home, Daily, Homecoming, Travel, Brunch, Airport",Drawstring,Straight Leg,Extra Long,,,,Ultra Low Waist,Drawstring Waist,,No,Unlined,,No,,No,Spring/Fall (18-25/63-77),"Back-to-School, Easter, Ramadan, Independence Day, Id al-Adha, Eid al-Fitr, Commencement/Graduation Season",21,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Temperature,Belt,Sheer","{""Closure Type"": ""Drawstring Waist"", ""Details"": ""Drawstring"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Holiday, School, Vacation, Office, Home, Daily, Homecoming, Travel, Brunch, Airport"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Back-to-School, Easter, Ramadan, Independence Day, Id al-Adha, Eid al-Fitr, Commencement/Graduation Season"", ""Color"": ""Brown"", ""Type"": ""Straight Leg"", ""Waist Line"": ""Ultra Low Waist"", ""Length"": ""Extra Long"", ""Fabric Elasticity"": ""Slight Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Knitted Fabric"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Temperature"": ""Spring/Fall (18-25/63-77)"", ""Belt"": ""No"", ""Sheer"": ""No""}","Closure Type: Drawstring Waist
+Details: Drawstring
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Holiday, School, Vacation, Office, Home, Daily, Homecoming, Travel, Brunch, Airport
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Back-to-School, Easter, Ramadan, Independence Day, Id al-Adha, Eid al-Fitr, Commencement/Graduation Season
+Color: Brown
+Type: Straight Leg
+Waist Line: Ultra Low Waist
+Length: Extra Long
+Fabric Elasticity: Slight Stretch
+Fit Type: Loose
+Material: Knitted Fabric
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Temperature: Spring/Fall (18-25/63-77)
+Belt: No
+Sheer: No",2026-06-12T10:53:52+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\352082325.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\352082325_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\352082325_description_raw_text.txt,fast,43.16,0.01,0.13,43.49,16.73,8.10,1,False,0.00,False,0.00,0,0,20,True
+57267606,https://sg.shein.com/SHEIN-EZwear-4pcs-Women-Tight-Fitting-Cropped-Casual-Camisole-Tank-Tops-Suitable-For-Summer-Back-To-School-p-57267606.html,https://sg.shein.com/SHEIN-EZwear-4pcs-Women-Tight-Fitting-Cropped-Casual-Camisole-Tank-Tops-Suitable-For-Summer-Back-To-School-p-57267606.html,7,2,"7,8",39k+ sold,TRUE,"SHEIN EZwear 4pcs Women Tight-Fitting Cropped Casual Camisole Tank Tops, Suitable For Summer Back To School",S$12.49,sz2409231781646020,2024-09-23,240923,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Multicolor,Knitted Fabric,"95% Polyester,5% Elastane",Slight Stretch,Slim Fit,Plain,Casual,"Beach, Night Out, Stage & Concert","Backless, Rib-Knit",Cami,,Spaghetti Strap,,,,,,,,Regular,No,,No,,Oktoberfest in Munich,20,"Details,Tank Tops & Camis Body,Neckline,Pattern Type,Style,Type,Occasion,Hem Shaped,Lined For Added Warmth,Festivals,Color,Tank Tops & Camis Length,Fit Type,Fabric Elasticity,Tank Tops & Camis Material,Tank Tops & Camis Composition,Care Instructions,Sheer,Material,Composition","{""Details"": ""Backless, Rib-Knit"", ""Tank Tops & Camis Body"": ""Unlined"", ""Neckline"": ""Spaghetti Strap"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Type"": ""Cami"", ""Occasion"": ""Beach, Night Out, Stage & Concert"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Festivals"": ""Oktoberfest in Munich"", ""Color"": ""Multicolor"", ""Tank Tops & Camis Length"": ""Crop"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""Slight Stretch"", ""Tank Tops & Camis Material"": ""Knitted Fabric"", ""Tank Tops & Camis Composition"": ""95% Polyester,5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No"", ""Material"": ""Knitted Fabric"", ""Composition"": ""95% Polyester,5% Elastane""}","Details: Backless, Rib-Knit
+Tank Tops & Camis Body: Unlined
+Neckline: Spaghetti Strap
+Pattern Type: Plain
+Style: Casual
+Type: Cami
+Occasion: Beach, Night Out, Stage & Concert
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Festivals: Oktoberfest in Munich
+Color: Multicolor
+Tank Tops & Camis Length: Crop
+Fit Type: Slim Fit
+Fabric Elasticity: Slight Stretch
+Tank Tops & Camis Material: Knitted Fabric
+Tank Tops & Camis Composition: 95% Polyester,5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No
+Material: Knitted Fabric
+Composition: 95% Polyester,5% Elastane",2026-06-12T10:54:44+08:00,success,页面超时但商品主体和 Description 属性已加载，保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57267606.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57267606_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\57267606_description_raw_text.txt,fast,31.11,0.00,0.05,31.24,0.00,7.22,1,False,0.00,False,0.00,0,0,20,True
+73971086,https://sg.shein.com/Fashionable-Elegant-Loose-Knitted-Shawl-Cardigan-Lightweight-Breathable-Oversized-Design-Suitable-For-Women-Spring-Summer-Casual-Wear-Leisure-Travel-Beach-Versatile-p-73971086.html,https://sg.shein.com/Fashionable-Elegant-Loose-Knitted-Shawl-Cardigan-Lightweight-Breathable-Oversized-Design-Suitable-For-Women-Spring-Summer-Casual-Wear-Leisure-Travel-Beach-Versatile-p-73971086.html,5,2,"5,10",35.5k+ sold,TRUE,"Fashionable & Elegant Loose Knitted Shawl Cardigan, Lightweight & Breathable, Oversized Design, Suitable For Women, Spring/Summer Casual Wear, Leisure Travel, Beach, Versatile",S$40,sz25042755606523066,2025-04-27,250427,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Green,Polyester,100% Polyester,Slight Stretch,Loose,,"Sexy, Elegant","Beach, Night Out, Daily, Travel",,Poncho,Long,Cowl Neck,Sleeveless,,,,,No,,Asymmetrical,No,,Semi-Sheer,,"Pride Month, Teachers' Day, Women's Day",18,"Neckline,Style,Type,Occasion,Hem Shaped,Lined For Added Warmth,Pockets,Festivals,Color,Sleeve Length,Length,Number of Pieces,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Neckline"": ""Cowl Neck"", ""Style"": ""Sexy, Elegant"", ""Type"": ""Poncho"", ""Occasion"": ""Beach, Night Out, Daily, Travel"", ""Hem Shaped"": ""Asymmetrical"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Pride Month, Teachers' Day, Women's Day"", ""Color"": ""Green"", ""Sleeve Length"": ""Sleeveless"", ""Length"": ""Long"", ""Number of Pieces"": ""1 Piece Set"", ""Fit Type"": ""Loose"", ""Fabric Elasticity"": ""Slight Stretch"", ""Material"": ""Polyester"", ""Composition"": ""100% Polyester"", ""Care Instructions"": ""Hand wash,do not dry clean"", ""Sheer"": ""Semi-Sheer""}","Neckline: Cowl Neck
+Style: Sexy, Elegant
+Type: Poncho
+Occasion: Beach, Night Out, Daily, Travel
+Hem Shaped: Asymmetrical
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Pride Month, Teachers' Day, Women's Day
+Color: Green
+Sleeve Length: Sleeveless
+Length: Long
+Number of Pieces: 1 Piece Set
+Fit Type: Loose
+Fabric Elasticity: Slight Stretch
+Material: Polyester
+Composition: 100% Polyester
+Care Instructions: Hand wash,do not dry clean
+Sheer: Semi-Sheer",2026-06-12T10:55:22+08:00,success,页面超时但商品主体和 Description 属性已加载，保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\73971086.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\73971086_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\73971086_description_raw_text.txt,fast,41.16,0.00,0.06,41.30,0.00,8.88,1,False,0.00,False,0.00,0,0,20,True
+52628967,https://sg.shein.com/INAWLY-Autumn-Winter-Loose-Fit-Long-Sleeve-Faux-Leather-Jacket-Motorcycle-Style-For-Women-Fall-Cloth-For-Women-p-52628967.html,https://sg.shein.com/INAWLY-Autumn-Winter-Loose-Fit-Long-Sleeve-Faux-Leather-Jacket-Motorcycle-Style-For-Women-Fall-Cloth-For-Women-p-52628967.html,4,2,"4,5",32.5k+ sold,TRUE,"INAWLY Autumn/Winter Loose Fit Long Sleeve Faux Leather Jacket, Motorcycle Style For Women Fall Cloth For Women",S$24.49,sz2410294282198489,2024-10-29,241029,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Burgundy,Polyurethane(PU),100.0% Polyester,Non-Stretch,Loose,,Casual,,"Pocket, Zipper",Bomber Jackets,Regular,Collar,Long Sleeve,Drop Shoulder,,,Zipper,Yes,Unlined,Tight Hem,No,,No,Late Fall (10-17/50-63),Back-to-School,21,"Details,Body,Neckline,Placket,Sleeve Type,Style,Type,Hem Shaped,Lined For Added Warmth,Pockets,Festivals,Color,Sleeve Length,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Temperature,Sheer","{""Details"": ""Pocket, Zipper"", ""Body"": ""Unlined"", ""Neckline"": ""Collar"", ""Placket"": ""Zipper"", ""Sleeve Type"": ""Drop Shoulder"", ""Style"": ""Casual"", ""Type"": ""Bomber Jackets"", ""Hem Shaped"": ""Tight Hem"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""Yes"", ""Festivals"": ""Back-to-School"", ""Color"": ""Burgundy"", ""Sleeve Length"": ""Long Sleeve"", ""Length"": ""Regular"", ""Fit Type"": ""Loose"", ""Fabric Elasticity"": ""Non-Stretch"", ""Material"": ""Polyurethane(PU)"", ""Composition"": ""100.0% Polyester"", ""Care Instructions"": ""Damp wipe only"", ""Temperature"": ""Late Fall (10-17/50-63)"", ""Sheer"": ""No""}","Details: Pocket, Zipper
+Body: Unlined
+Neckline: Collar
+Placket: Zipper
+Sleeve Type: Drop Shoulder
+Style: Casual
+Type: Bomber Jackets
+Hem Shaped: Tight Hem
+Lined For Added Warmth: No
+Pockets: Yes
+Festivals: Back-to-School
+Color: Burgundy
+Sleeve Length: Long Sleeve
+Length: Regular
+Fit Type: Loose
+Fabric Elasticity: Non-Stretch
+Material: Polyurethane(PU)
+Composition: 100.0% Polyester
+Care Instructions: Damp wipe only
+Temperature: Late Fall (10-17/50-63)
+Sheer: No",2026-06-12T11:31:37+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\52628967.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\52628967_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\52628967_description_raw_text.txt,captcha_cleared_stable_retry,15.12,0.00,0.08,15.29,0.00,26.00,2,True,146.97,True,0.00,0,0,20,True
+468450372,https://sg.shein.com/Tseoso-Women-s-3-Pack-Ribbed-Camisole-Tops-With-Built-In-Padded-Bra-White-With-Black-Polka-Dots-Royal-Blue-Heather-Gray-Summer-Casual-Everyday-Tank-Tops-Y2K-p-468450372.html,https://sg.shein.com/Tseoso-Women-s-3-Pack-Ribbed-Camisole-Tops-With-Built-In-Padded-Bra-White-With-Black-Polka-Dots-Royal-Blue-Heather-Gray-Summer-Casual-Everyday-Tank-Tops-Y2K-p-468450372.html,6,2,"6,9",30.6k+ sold,TRUE,"Tseoso Women's 3-Pack Ribbed Camisole Tops With Built-In Padded Bra,White With Black Polka Dots,Royal Blue,Heather Gray,Summer Casual Everyday Tank Tops,Y2K",S$19.49,sz260507003968815963562,2026-05-07,260507,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Black,Knitted Fabric,"92% Viscose,8% Elastane",High Stretch,Slim Fit,Geometric,Casual,Travel,"Backless, Rib-Knit",Cami,,Spaghetti Strap,,,,,,,,Regular,No,,No,,Valentine's Day,21,"Details,Tank Tops & Camis Body,Neckline,Pattern Type,Style,Type,Occasion,Hem Shaped,Lined For Added Warmth,Festivals,Color,Tank Tops & Camis Length,Fit Type,Fabric Elasticity,Tank Tops & Camis Material,Tank Tops & Camis Composition,Care Instructions,Sheer,Number of Pieces,Material,Composition","{""Details"": ""Backless, Rib-Knit"", ""Tank Tops & Camis Body"": ""Unlined"", ""Neckline"": ""Spaghetti Strap"", ""Pattern Type"": ""Geometric"", ""Style"": ""Casual"", ""Type"": ""Cami"", ""Occasion"": ""Travel"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Festivals"": ""Valentine's Day"", ""Color"": ""Black"", ""Tank Tops & Camis Length"": ""Crop"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""High Stretch"", ""Tank Tops & Camis Material"": ""Knitted Fabric"", ""Tank Tops & Camis Composition"": ""92% Viscose,8% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No"", ""Number of Pieces"": ""2 Piece Set"", ""Material"": ""Knitted Fabric"", ""Composition"": ""92% Viscose,8% Elastane""}","Details: Backless, Rib-Knit
+Tank Tops & Camis Body: Unlined
+Neckline: Spaghetti Strap
+Pattern Type: Geometric
+Style: Casual
+Type: Cami
+Occasion: Travel
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Festivals: Valentine's Day
+Color: Black
+Tank Tops & Camis Length: Crop
+Fit Type: Slim Fit
+Fabric Elasticity: High Stretch
+Tank Tops & Camis Material: Knitted Fabric
+Tank Tops & Camis Composition: 92% Viscose,8% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No
+Number of Pieces: 2 Piece Set
+Material: Knitted Fabric
+Composition: 92% Viscose,8% Elastane",2026-06-12T11:32:13+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\468450372.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\468450372_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\468450372_description_raw_text.txt,fast,33.83,0.00,0.05,33.95,18.35,5.19,1,False,0.00,False,0.00,0,0,20,True
+18813630,https://sg.shein.com/SHEIN-EZwear-Spring-Solid-Pleated-Detail-Casual-Wide-Leg-Pants-p-18813630.html,https://sg.shein.com/SHEIN-EZwear-Spring-Solid-Pleated-Detail-Casual-Wide-Leg-Pants-p-18813630.html,3,2,"3,4",28.8k+ sold,TRUE,SHEIN EZwear Spring Solid Pleated Detail Casual Wide Leg Pants,S$16.64,sz2306182692635893,2023-06-18,230618,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Light Grey,Woven Fabric,100% Polyester,Non-Stretch,Loose,Plain,Elegant,,"Button, Zipper, Plicated",Wide Leg,Long,,,,High Waist,Zipper Fly,,No,Unlined,,No,,No,Spring/Fall (18-25/63-77),,18,"Closure Type,Details,Body,Pattern Type,Style,Lined For Added Warmth,Pockets,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Temperature,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Button, Zipper, Plicated"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Elegant"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Color"": ""Light Grey"", ""Type"": ""Wide Leg"", ""Waist Line"": ""High Waist"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Woven Fabric"", ""Composition"": ""100% Polyester"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Temperature"": ""Spring/Fall (18-25/63-77)"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Button, Zipper, Plicated
+Body: Unlined
+Pattern Type: Plain
+Style: Elegant
+Lined For Added Warmth: No
+Pockets: No
+Color: Light Grey
+Type: Wide Leg
+Waist Line: High Waist
+Length: Long
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Material: Woven Fabric
+Composition: 100% Polyester
+Care Instructions: Machine wash or professional dry clean
+Temperature: Spring/Fall (18-25/63-77)
+Sheer: No",2026-06-12T11:32:52+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\18813630.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\18813630_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\18813630_description_raw_text.txt,fast,27.15,0.01,0.07,27.34,13.24,9.70,1,False,0.00,False,0.00,0,0,20,True
+94866877,https://sg.shein.com/Sweetra-Women-s-Solid-Color-Casual-Sleeveless-Tank-Top-Summer-p-94866877.html,https://sg.shein.com/Sweetra-Women-s-Solid-Color-Casual-Sleeveless-Tank-Top-Summer-p-94866877.html,7,2,"7,8",28.6k+ sold,TRUE,"Sweetra Women's Solid Color Casual Sleeveless Tank Top, Summer",S$17.49,sz25052952901140933,2025-05-29,250529,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Multicolor,Knitted Fabric,"95% Polyester,5% Elastane",Medium Stretch,Slim Fit,"Plain, Textured Pattern",Casual,Beach,Ruched,Tank,,Straps,,,,,,No,,Regular,No,,Semi-Sheer,,Oktoberfest in Munich,20,"Details,Neckline,Pattern Type,Style,Type,Occasion,Hem Shaped,Lined For Added Warmth,Pockets,Festivals,Color,Tank Tops & Camis Length,Fit Type,Fabric Elasticity,Tank Tops & Camis Material,Tank Tops & Camis Composition,Care Instructions,Sheer,Material,Composition","{""Details"": ""Ruched"", ""Neckline"": ""Straps"", ""Pattern Type"": ""Plain, Textured Pattern"", ""Style"": ""Casual"", ""Type"": ""Tank"", ""Occasion"": ""Beach"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Oktoberfest in Munich"", ""Color"": ""Multicolor"", ""Tank Tops & Camis Length"": ""Crop"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""Medium Stretch"", ""Tank Tops & Camis Material"": ""Knitted Fabric"", ""Tank Tops & Camis Composition"": ""95% Polyester,5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""Semi-Sheer"", ""Material"": ""Knitted Fabric"", ""Composition"": ""95% Polyester,5% Elastane""}","Details: Ruched
+Neckline: Straps
+Pattern Type: Plain, Textured Pattern
+Style: Casual
+Type: Tank
+Occasion: Beach
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Oktoberfest in Munich
+Color: Multicolor
+Tank Tops & Camis Length: Crop
+Fit Type: Slim Fit
+Fabric Elasticity: Medium Stretch
+Tank Tops & Camis Material: Knitted Fabric
+Tank Tops & Camis Composition: 95% Polyester,5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: Semi-Sheer
+Material: Knitted Fabric
+Composition: 95% Polyester,5% Elastane",2026-06-12T11:33:29+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\94866877.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\94866877_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\94866877_description_raw_text.txt,fast,40.76,0.01,0.08,40.95,15.01,9.20,1,False,0.00,False,0.00,0,0,20,True
+36391039,https://sg.shein.com/SHEIN-PETITE-Ladies-Solid-Color-Simple-Everyday-Casual-Trousers-p-36391039.html,https://sg.shein.com/SHEIN-PETITE-Ladies-Solid-Color-Simple-Everyday-Casual-Trousers-p-36391039.html,3,2,"3,4",25.5k+ sold,TRUE,SHEIN PETITE Ladies' Solid Color Simple Everyday Casual Trousers,S$16.99,sz2312013105103586,2023-12-01,231201,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Black,Woven Fabric,100% Polyester,Non-Stretch,Regular Fit,,Casual,Daily,"Button, Pocket, Zipper",Straight Leg,Long,,,,Natural(Mid Waist),Zipper Fly,,Yes,Unlined,,No,,No,Spring/Fall (18-25/63-77),Independence Day,20,"Closure Type,Details,Body,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Temperature,Belt,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Button, Pocket, Zipper"", ""Body"": ""Unlined"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""Yes"", ""Festivals"": ""Independence Day"", ""Color"": ""Black"", ""Type"": ""Straight Leg"", ""Waist Line"": ""Natural(Mid Waist)"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Regular Fit"", ""Material"": ""Woven Fabric"", ""Composition"": ""100% Polyester"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Temperature"": ""Spring/Fall (18-25/63-77)"", ""Belt"": ""No"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Button, Pocket, Zipper
+Body: Unlined
+Style: Casual
+Occasion: Daily
+Lined For Added Warmth: No
+Pockets: Yes
+Festivals: Independence Day
+Color: Black
+Type: Straight Leg
+Waist Line: Natural(Mid Waist)
+Length: Long
+Fabric Elasticity: Non-Stretch
+Fit Type: Regular Fit
+Material: Woven Fabric
+Composition: 100% Polyester
+Care Instructions: Machine wash or professional dry clean
+Temperature: Spring/Fall (18-25/63-77)
+Belt: No
+Sheer: No",2026-06-12T11:34:19+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\36391039.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\36391039_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\36391039_description_raw_text.txt,fast,38.80,0.01,0.08,38.99,14.46,8.84,1,False,0.00,False,0.00,0,0,20,True
+55376300,https://sg.shein.com/Livesso-Women-s-Solid-Color-Fitted-Tank-Top-Minimalist-Casual-Daily-Wear-Going-Out-Tops-p-55376300.html,https://sg.shein.com/Livesso-Women-s-Solid-Color-Fitted-Tank-Top-Minimalist-Casual-Daily-Wear-Going-Out-Tops-p-55376300.html,2,2,"2,3",25.3k+ sold,TRUE,"Livesso Women's Solid Color Fitted Tank Top, Minimalist Casual Daily Wear Going Out Tops",S$5.99,,,,failed,详情页 SKU 为空,White,Rib knit,"90% Polyester, 10% Elastane",Medium Stretch,Slim Fit,,Casual,"Home, Daily","Ruched, Rib-Knit",Tank,Regular,Round Neck,,,,,,,Unlined,Regular,No,,Semi-Sheer,,Halloween,17,"Details,Body,Neckline,Style,Type,Occasion,Hem Shaped,Lined For Added Warmth,Festivals,Color,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Details"": ""Ruched, Rib-Knit"", ""Body"": ""Unlined"", ""Neckline"": ""Round Neck"", ""Style"": ""Casual"", ""Type"": ""Tank"", ""Occasion"": ""Home, Daily"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Festivals"": ""Halloween"", ""Color"": ""White"", ""Length"": ""Regular"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""Medium Stretch"", ""Material"": ""Rib knit"", ""Composition"": ""90% Polyester, 10% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""Semi-Sheer""}","Details: Ruched, Rib-Knit
+Body: Unlined
+Neckline: Round Neck
+Style: Casual
+Type: Tank
+Occasion: Home, Daily
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Festivals: Halloween
+Color: White
+Length: Regular
+Fit Type: Slim Fit
+Fabric Elasticity: Medium Stretch
+Material: Rib knit
+Composition: 90% Polyester, 10% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: Semi-Sheer",2026-06-12T11:35:07+08:00,success,Description 追加等待后属性加载成功,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\55376300.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\55376300_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\55376300_description_raw_text.txt,fast,32.03,0.00,0.18,32.23,0.00,9.26,1,False,0.00,False,0.00,0,0,20,True
+420937384,https://sg.shein.com/Sunnyshic-Women-s-Textured-Striped-Off-Shoulder-Asymmetric-Design-Slimming-Waist-Sexy-Asymmetrical-Shoulder-Sweet-Vacation-Style-T-Shirt-p-420937384.html,https://sg.shein.com/Sunnyshic-Women-s-Textured-Striped-Off-Shoulder-Asymmetric-Design-Slimming-Waist-Sexy-Asymmetrical-Shoulder-Sweet-Vacation-Style-T-Shirt-p-420937384.html,2,2,"2,3",25.2k+ sold,TRUE,Sunnyshic Women's Textured Striped Off Shoulder Asymmetric Design Slimming Waist Sexy Asymmetrical Shoulder Sweet Vacation Style T-Shirt,S$7.49,sz260304164700889655140,2026-03-04,260304,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Multicolor,Knitted Fabric,"96% Polyester, 4% Elastane",Medium Stretch,Slim Fit,Striped,Casual,Home,"Asymmetrical, Rib-Knit",,Crop,Asymmetrical Neck,Short Sleeve,Raglan Sleeve,,,,No,No,Regular,No,,Semi-Sheer,,Independence Day,20,"Body,Pattern Type,Sleeve Type,Hem Shaped,Lined For Added Warmth,Pockets,Festivals,Color,Details,Style,Occasion,Neckline,Sleeve Length,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Body"": ""No"", ""Pattern Type"": ""Striped"", ""Sleeve Type"": ""Raglan Sleeve"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Independence Day"", ""Color"": ""Multicolor"", ""Details"": ""Asymmetrical, Rib-Knit"", ""Style"": ""Casual"", ""Occasion"": ""Home"", ""Neckline"": ""Asymmetrical Neck"", ""Sleeve Length"": ""Short Sleeve"", ""Length"": ""Crop"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""Medium Stretch"", ""Material"": ""Knitted Fabric"", ""Composition"": ""96% Polyester, 4% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""Semi-Sheer""}","Body: No
+Pattern Type: Striped
+Sleeve Type: Raglan Sleeve
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Independence Day
+Color: Multicolor
+Details: Asymmetrical, Rib-Knit
+Style: Casual
+Occasion: Home
+Neckline: Asymmetrical Neck
+Sleeve Length: Short Sleeve
+Length: Crop
+Fit Type: Slim Fit
+Fabric Elasticity: Medium Stretch
+Material: Knitted Fabric
+Composition: 96% Polyester, 4% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: Semi-Sheer",2026-06-12T11:35:49+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\420937384.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\420937384_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\420937384_description_raw_text.txt,fast,25.35,0.01,0.08,25.54,14.07,9.96,1,False,0.00,False,0.00,0,0,20,True
+30895369,https://sg.shein.com/DAZY-Casual-Business-Solid-Color-Straight-Leg-Pants-Women-Dress-Pants-Fall-p-30895369.html,https://sg.shein.com/DAZY-Casual-Business-Solid-Color-Straight-Leg-Pants-Women-Dress-Pants-Fall-p-30895369.html,4,2,"4,8",24.5k+ sold,TRUE,"DAZY Casual Business Solid Color Straight-Leg Pants,Women Dress Pants Fall",S$20.49,sz2401192923225167,2024-01-19,240119,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Grey,Fabric,"96% Polyester, 4% Elastane",Non-Stretch,Loose,Plain,Casual,Homecoming,"Button, Pocket, Zipper",Wide Leg,Long,,,,High Waist,Zipper Fly,,No,Unlined,,No,,No,Late Fall (10-17/50-63),Commencement/Graduation Season,20,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Temperature,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Button, Pocket, Zipper"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Homecoming"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Commencement/Graduation Season"", ""Color"": ""Grey"", ""Type"": ""Wide Leg"", ""Waist Line"": ""High Waist"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Fabric"", ""Composition"": ""96% Polyester, 4% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Temperature"": ""Late Fall (10-17/50-63)"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Button, Pocket, Zipper
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Homecoming
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Commencement/Graduation Season
+Color: Grey
+Type: Wide Leg
+Waist Line: High Waist
+Length: Long
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Material: Fabric
+Composition: 96% Polyester, 4% Elastane
+Care Instructions: Machine wash or professional dry clean
+Temperature: Late Fall (10-17/50-63)
+Sheer: No",2026-06-12T11:36:24+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\30895369.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\30895369_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\30895369_description_raw_text.txt,fast,37.67,0.01,0.05,37.80,17.04,7.21,1,False,0.00,False,0.00,0,0,20,True
+434406587,https://sg.shein.com/Franclia-Women-s-White-Fabric-Short-Skort-With-Asymmetrical-Polka-Dot-Design-Perfect-For-Parties-p-434406587.html,https://sg.shein.com/Franclia-Women-s-White-Fabric-Short-Skort-With-Asymmetrical-Polka-Dot-Design-Perfect-For-Parties-p-434406587.html,4,2,"4,8",22.4k+ sold,TRUE,Franclia Women's White Fabric Short Skort With Asymmetrical Polka Dot Design Perfect For Parties,S$7.99,sz260313171056313624630,2026-03-13,260313,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,White,Fabric,"95% Polyester, 5% Elastane",Medium Stretch,Skinny,Colorblock,Party,Office,Asymmetrical,Skort,Short,,,,Natural(Mid Waist),,,No,Unlined,,No,,No,,,17,"Style,Pattern Type,Color,Details,Type,Fit Type,Length,Waist Line,Material,Composition,Care Instructions,Sheer,Body,Pockets,Occasion,Lined For Added Warmth,Fabric Elasticity","{""Style"": ""Party"", ""Pattern Type"": ""Colorblock"", ""Color"": ""White"", ""Details"": ""Asymmetrical"", ""Type"": ""Skort"", ""Fit Type"": ""Skinny"", ""Length"": ""Short"", ""Waist Line"": ""Natural(Mid Waist)"", ""Material"": ""Fabric"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No"", ""Body"": ""Unlined"", ""Pockets"": ""No"", ""Occasion"": ""Office"", ""Lined For Added Warmth"": ""No"", ""Fabric Elasticity"": ""Medium Stretch""}","Style: Party
+Pattern Type: Colorblock
+Color: White
+Details: Asymmetrical
+Type: Skort
+Fit Type: Skinny
+Length: Short
+Waist Line: Natural(Mid Waist)
+Material: Fabric
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No
+Body: Unlined
+Pockets: No
+Occasion: Office
+Lined For Added Warmth: No
+Fabric Elasticity: Medium Stretch",2026-06-12T11:37:09+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\434406587.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\434406587_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\434406587_description_raw_text.txt,fast,36.51,0.01,0.07,36.70,13.55,6.26,1,False,0.00,False,0.00,0,0,20,True
+42827379,https://sg.shein.com/Draping-Minimalist-Design-Office-Pants-New-European-And-American-Fashion-Straight-Leg-Casual-Loose-Trousers-All-Seasons-Spring-p-42827379.html,https://sg.shein.com/Draping-Minimalist-Design-Office-Pants-New-European-And-American-Fashion-Straight-Leg-Casual-Loose-Trousers-All-Seasons-Spring-p-42827379.html,7,2,"7,8",22.2k+ sold,TRUE,"Draping Minimalist Design Office Pants, New European And American Fashion Straight-Leg Casual Loose Trousers, All Seasons Spring",S$17.99,sz2409126510391541,2024-09-12,240912,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Grey,Woven Fabric,100% Polyester,Non-Stretch,Regular Fit,,Casual,Office,"Button, Pocket, Zipper",Wide Leg,Long,,,,High Waist,Zipper Fly,,,Unlined,,No,,No,,"Ramadan, Id al-Adha, Eid al-Fitr",17,"Closure Type,Details,Body,Style,Occasion,Lined For Added Warmth,Festivals,Color,Type,Waist Line,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Button, Pocket, Zipper"", ""Body"": ""Unlined"", ""Style"": ""Casual"", ""Occasion"": ""Office"", ""Lined For Added Warmth"": ""No"", ""Festivals"": ""Ramadan, Id al-Adha, Eid al-Fitr"", ""Color"": ""Grey"", ""Type"": ""Wide Leg"", ""Waist Line"": ""High Waist"", ""Length"": ""Long"", ""Fit Type"": ""Regular Fit"", ""Fabric Elasticity"": ""Non-Stretch"", ""Material"": ""Woven Fabric"", ""Composition"": ""100% Polyester"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Button, Pocket, Zipper
+Body: Unlined
+Style: Casual
+Occasion: Office
+Lined For Added Warmth: No
+Festivals: Ramadan, Id al-Adha, Eid al-Fitr
+Color: Grey
+Type: Wide Leg
+Waist Line: High Waist
+Length: Long
+Fit Type: Regular Fit
+Fabric Elasticity: Non-Stretch
+Material: Woven Fabric
+Composition: 100% Polyester
+Care Instructions: Machine wash or professional dry clean
+Sheer: No",2026-06-12T11:37:52+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\42827379.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\42827379_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\42827379_description_raw_text.txt,fast,43.67,0.01,0.09,43.89,19.18,6.52,1,False,0.00,False,0.00,0,0,20,True
+97761235,https://sg.shein.com/Women-s-Solid-Color-Button-Half-Placket-Short-Sleeve-Casual-T-Shirt-Summer-Black-p-97761235.html,https://sg.shein.com/Women-s-Solid-Color-Button-Half-Placket-Short-Sleeve-Casual-T-Shirt-Summer-Black-p-97761235.html,2,2,"2,3",22.2k+ sold,TRUE,"Women's Solid Color Button Half Placket Short Sleeve Casual T-Shirt, Summer Black",S$12.99,sz2404061113388058,2024-04-06,240406,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Black,Fabric,"65.0% Polyester, 30.0% Viscose, 5.0% Elastane",High Stretch,Slim Fit,,Casual,"Beach, Daily","Button, Contrast Lace, Rib-Knit",,Regular,Round Neck,Short Sleeve,Regular Sleeve,,,,No,,Regular,No,,No,,Halloween,18,"Sleeve Type,Hem Shaped,Lined For Added Warmth,Pockets,Festivals,Color,Details,Style,Occasion,Neckline,Sleeve Length,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Sleeve Type"": ""Regular Sleeve"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Halloween"", ""Color"": ""Black"", ""Details"": ""Button, Contrast Lace, Rib-Knit"", ""Style"": ""Casual"", ""Occasion"": ""Beach, Daily"", ""Neckline"": ""Round Neck"", ""Sleeve Length"": ""Short Sleeve"", ""Length"": ""Regular"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""High Stretch"", ""Material"": ""Fabric"", ""Composition"": ""65.0% Polyester, 30.0% Viscose, 5.0% Elastane"", ""Care Instructions"": ""Hand wash,do not dry clean"", ""Sheer"": ""No""}","Sleeve Type: Regular Sleeve
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Halloween
+Color: Black
+Details: Button, Contrast Lace, Rib-Knit
+Style: Casual
+Occasion: Beach, Daily
+Neckline: Round Neck
+Sleeve Length: Short Sleeve
+Length: Regular
+Fit Type: Slim Fit
+Fabric Elasticity: High Stretch
+Material: Fabric
+Composition: 65.0% Polyester, 30.0% Viscose, 5.0% Elastane
+Care Instructions: Hand wash,do not dry clean
+Sheer: No",2026-06-12T17:13:51+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\97761235.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\97761235_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\97761235_description_raw_text.txt,captcha_cleared_stable_retry,17.34,0.00,0.09,17.53,0.00,30.61,2,True,107.19,True,0.00,0,0,20,True
+225674364,https://sg.shein.com/Women-s-Minimalist-Design-Flared-Leg-Casual-Trousers-Suitable-For-Commuting-Office-Daily-Wear-All-Seasons-Spring-Black-p-225674364.html,https://sg.shein.com/Women-s-Minimalist-Design-Flared-Leg-Casual-Trousers-Suitable-For-Commuting-Office-Daily-Wear-All-Seasons-Spring-Black-p-225674364.html,4,2,"4,5",22.1k+ sold,TRUE,"Women's Minimalist Design Flared Leg Casual Trousers, Suitable For Commuting, Office, Daily Wear, All Seasons Spring Black",S$14.84,sz25091758198813160,2025-09-17,250917,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Black,Woven Fabric,100% Polyester,Non-Stretch,Loose,Plain,Casual,"School, Vacation, Office, Daily, Homecoming","Button, Pocket, Zipper",Straight Leg,Long,,,,Natural(Mid Waist),Zipper Fly,,Yes,Unlined,,No,Great quality,No,,"Back-to-School, Teachers' Day, New Year, Spring Festival, Commencement/Graduation Season",21,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Features,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Belt,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Button, Pocket, Zipper"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""School, Vacation, Office, Daily, Homecoming"", ""Features"": ""Great quality"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""Yes"", ""Festivals"": ""Back-to-School, Teachers' Day, New Year, Spring Festival, Commencement/Graduation Season"", ""Color"": ""Black"", ""Type"": ""Straight Leg"", ""Waist Line"": ""Natural(Mid Waist)"", ""Length"": ""Long"", ""Fit Type"": ""Loose"", ""Fabric Elasticity"": ""Non-Stretch"", ""Material"": ""Woven Fabric"", ""Composition"": ""100% Polyester"", ""Care Instructions"": ""Hand wash or professional dry clean"", ""Belt"": ""No"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Button, Pocket, Zipper
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: School, Vacation, Office, Daily, Homecoming
+Features: Great quality
+Lined For Added Warmth: No
+Pockets: Yes
+Festivals: Back-to-School, Teachers' Day, New Year, Spring Festival, Commencement/Graduation Season
+Color: Black
+Type: Straight Leg
+Waist Line: Natural(Mid Waist)
+Length: Long
+Fit Type: Loose
+Fabric Elasticity: Non-Stretch
+Material: Woven Fabric
+Composition: 100% Polyester
+Care Instructions: Hand wash or professional dry clean
+Belt: No
+Sheer: No",2026-06-12T17:14:32+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\225674364.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\225674364_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\225674364_description_raw_text.txt,fast,33.46,0.01,0.08,33.66,18.40,6.68,1,False,0.00,False,0.00,0,0,20,True
+307971017,https://sg.shein.com/Sweetra-Women-s-Vintage-Elegant-Jacquard-Pleated-Wide-Leg-Pants-Autumn-Winter-p-307971017.html,https://sg.shein.com/Sweetra-Women-s-Vintage-Elegant-Jacquard-Pleated-Wide-Leg-Pants-Autumn-Winter-p-307971017.html,7,2,"7,8",21.4k+ sold,TRUE,"Sweetra Women's Vintage Elegant Jacquard Pleated Wide Leg Pants, Autumn/Winter",S$16.49,sz251104340400483887,2025-11-04,251104,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Mocha Brown,Polyester,"95% Polyester, 5% Elastane",Non-Stretch,Loose,Plain,Casual,Office,"Button, Zipper, Plicated",Wide Leg,Long,,,,Natural(Mid Waist),Zipper Fly,,No,Unlined,,No,,No,Spring/Fall (18-25/63-77),"Ramadan, Id al-Adha, Eid al-Fitr",20,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Lined For Added Warmth,Pockets,Festivals,Color,Type,Waist Line,Length,Fabric Elasticity,Fit Type,Material,Composition,Care Instructions,Temperature,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Button, Zipper, Plicated"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Office"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Ramadan, Id al-Adha, Eid al-Fitr"", ""Color"": ""Mocha Brown"", ""Type"": ""Wide Leg"", ""Waist Line"": ""Natural(Mid Waist)"", ""Length"": ""Long"", ""Fabric Elasticity"": ""Non-Stretch"", ""Fit Type"": ""Loose"", ""Material"": ""Polyester"", ""Composition"": ""95% Polyester, 5% Elastane"", ""Care Instructions"": ""Hand wash or professional dry clean"", ""Temperature"": ""Spring/Fall (18-25/63-77)"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Button, Zipper, Plicated
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Office
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Ramadan, Id al-Adha, Eid al-Fitr
+Color: Mocha Brown
+Type: Wide Leg
+Waist Line: Natural(Mid Waist)
+Length: Long
+Fabric Elasticity: Non-Stretch
+Fit Type: Loose
+Material: Polyester
+Composition: 95% Polyester, 5% Elastane
+Care Instructions: Hand wash or professional dry clean
+Temperature: Spring/Fall (18-25/63-77)
+Sheer: No",2026-06-12T17:15:12+08:00,success,Description 追加等待后属性加载成功,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\307971017.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\307971017_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\307971017_description_raw_text.txt,fast,18.47,0.00,4.71,23.24,0.00,9.32,1,False,0.00,False,0.00,0,0,20,True
+29328841,https://sg.shein.com/Women-s-Summer-Casual-Versatile-Tank-Top-White-p-29328841.html,https://sg.shein.com/Women-s-Summer-Casual-Versatile-Tank-Top-White-p-29328841.html,2,2,"2,6",20.8k+ sold,TRUE,Women's Summer Casual Versatile Tank Top White,S$8.99,sz2401087089937375,2024-01-08,240108,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,White,Knitted Fabric,"46% Cotton, 46% Viscose, 8% Elastane",Slight Stretch,Slim Fit,,Casual,Home,Rib-Knit,Tank,Short,Scoop Neck,,,,,,,Unlined,Regular,No,,No,,Halloween,17,"Details,Body,Neckline,Style,Type,Occasion,Hem Shaped,Lined For Added Warmth,Festivals,Color,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Details"": ""Rib-Knit"", ""Body"": ""Unlined"", ""Neckline"": ""Scoop Neck"", ""Style"": ""Casual"", ""Type"": ""Tank"", ""Occasion"": ""Home"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Festivals"": ""Halloween"", ""Color"": ""White"", ""Length"": ""Short"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""Slight Stretch"", ""Material"": ""Knitted Fabric"", ""Composition"": ""46% Cotton, 46% Viscose, 8% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No""}","Details: Rib-Knit
+Body: Unlined
+Neckline: Scoop Neck
+Style: Casual
+Type: Tank
+Occasion: Home
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Festivals: Halloween
+Color: White
+Length: Short
+Fit Type: Slim Fit
+Fabric Elasticity: Slight Stretch
+Material: Knitted Fabric
+Composition: 46% Cotton, 46% Viscose, 8% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No",2026-06-12T17:15:45+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\29328841.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\29328841_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\29328841_description_raw_text.txt,fast,29.01,0.01,0.07,29.18,16.44,5.59,1,False,0.00,False,0.00,0,0,20,True
+10294783,https://sg.shein.com/DAZY-High-Waist-Wide-Leg-Shorts-p-10294783.html,https://sg.shein.com/DAZY-High-Waist-Wide-Leg-Shorts-p-10294783.html,4,2,"4,5",18.3k+ sold,TRUE,DAZY High Waist Wide Leg Shorts,S$11.99,sw2202157739300410,2022-02-15,220215,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Black,Fabric,"92% Polyester, 8% Elastane",Slight Stretch,Regular Fit,Plain,Casual,Daily,"Button, Zipper",Straight Leg,Short,,,,High Waist,Zipper Fly,,No,Unlined,,,,No,,,17,"Closure Type,Details,Body,Pattern Type,Style,Occasion,Pockets,Color,Type,Waist Line,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Closure Type"": ""Zipper Fly"", ""Details"": ""Button, Zipper"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Occasion"": ""Daily"", ""Pockets"": ""No"", ""Color"": ""Black"", ""Type"": ""Straight Leg"", ""Waist Line"": ""High Waist"", ""Length"": ""Short"", ""Fit Type"": ""Regular Fit"", ""Fabric Elasticity"": ""Slight Stretch"", ""Material"": ""Fabric"", ""Composition"": ""92% Polyester, 8% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No""}","Closure Type: Zipper Fly
+Details: Button, Zipper
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Occasion: Daily
+Pockets: No
+Color: Black
+Type: Straight Leg
+Waist Line: High Waist
+Length: Short
+Fit Type: Regular Fit
+Fabric Elasticity: Slight Stretch
+Material: Fabric
+Composition: 92% Polyester, 8% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No",2026-06-12T17:16:20+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\10294783.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\10294783_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\10294783_description_raw_text.txt,fast,31.59,0.01,0.08,31.79,16.05,8.81,1,False,0.00,False,0.00,0,0,20,True
+230149140,https://sg.shein.com/Sweetra-Women-s-Summer-Solid-Color-Ruffle-Hem-Tie-Waist-Short-Sleeve-Blouse-p-230149140.html,https://sg.shein.com/Sweetra-Women-s-Summer-Solid-Color-Ruffle-Hem-Tie-Waist-Short-Sleeve-Blouse-p-230149140.html,5,2,"5,6",17.9k+ sold,TRUE,Elamini Women's Summer Solid Color Ruffle Hem Tie Waist Short Sleeve Blouse,S$12.49,sz25093081700286037,2025-09-30,250930,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Navy Blue,Woven Fabric,100% Polyester,Non-Stretch,Regular Fit,Plain,Casual,Daily,"Ruffle, Frill, Ruched Bust",Top,Regular,Off the Shoulder,Short Sleeve,Puff Sleeve,,,,,Unlined,Flounce,No,,No,,,19,"Details,Body,Pattern Type,Style,Type,Occasion,Lined For Added Warmth,Color,Hem Shaped,Sleeve Type,Neckline,Sleeve Length,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Details"": ""Ruffle, Frill, Ruched Bust"", ""Body"": ""Unlined"", ""Pattern Type"": ""Plain"", ""Style"": ""Casual"", ""Type"": ""Top"", ""Occasion"": ""Daily"", ""Lined For Added Warmth"": ""No"", ""Color"": ""Navy Blue"", ""Hem Shaped"": ""Flounce"", ""Sleeve Type"": ""Puff Sleeve"", ""Neckline"": ""Off the Shoulder"", ""Sleeve Length"": ""Short Sleeve"", ""Length"": ""Regular"", ""Fit Type"": ""Regular Fit"", ""Fabric Elasticity"": ""Non-Stretch"", ""Material"": ""Woven Fabric"", ""Composition"": ""100% Polyester"", ""Care Instructions"": ""Machine wash, do not dry clean"", ""Sheer"": ""No""}","Details: Ruffle, Frill, Ruched Bust
+Body: Unlined
+Pattern Type: Plain
+Style: Casual
+Type: Top
+Occasion: Daily
+Lined For Added Warmth: No
+Color: Navy Blue
+Hem Shaped: Flounce
+Sleeve Type: Puff Sleeve
+Neckline: Off the Shoulder
+Sleeve Length: Short Sleeve
+Length: Regular
+Fit Type: Regular Fit
+Fabric Elasticity: Non-Stretch
+Material: Woven Fabric
+Composition: 100% Polyester
+Care Instructions: Machine wash, do not dry clean
+Sheer: No",2026-06-12T17:17:00+08:00,success,Description 追加等待后属性加载成功,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\230149140.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\230149140_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\230149140_description_raw_text.txt,fast,19.22,0.00,4.06,23.33,0.00,6.20,1,False,0.00,False,0.00,0,0,20,True
+43400974,https://sg.shein.com/DAZY-1pc-Women-Solid-Color-Crewneck-Ribbed-Slim-Fit-Casual-Tank-Top-p-43400974.html,https://sg.shein.com/DAZY-1pc-Women-Solid-Color-Crewneck-Ribbed-Slim-Fit-Casual-Tank-Top-p-43400974.html,3,2,"3,7",17.5k+ sold,TRUE,DAZY 1pc Women Solid Color Crewneck Ribbed Slim Fit Casual Tank Top,S$8.49,sz2405148676818307,2024-05-14,240514,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Black,Fabric,"95% Viscose, 5% Elastane",Medium Stretch,Slim Fit,Plain,Casual,Daily,Ruched,Tank,Regular,Scoop Neck,,Arm Sleeves,,,,,Unlined,Regular,No,,No,,Back-to-School,19,"Details,Body,Neckline,Pattern Type,Sleeve Type,Style,Type,Occasion,Hem Shaped,Lined For Added Warmth,Festivals,Color,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer","{""Details"": ""Ruched"", ""Body"": ""Unlined"", ""Neckline"": ""Scoop Neck"", ""Pattern Type"": ""Plain"", ""Sleeve Type"": ""Arm Sleeves"", ""Style"": ""Casual"", ""Type"": ""Tank"", ""Occasion"": ""Daily"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Festivals"": ""Back-to-School"", ""Color"": ""Black"", ""Length"": ""Regular"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""Medium Stretch"", ""Material"": ""Fabric"", ""Composition"": ""95% Viscose, 5% Elastane"", ""Care Instructions"": ""Machine wash, do not dry clean"", ""Sheer"": ""No""}","Details: Ruched
+Body: Unlined
+Neckline: Scoop Neck
+Pattern Type: Plain
+Sleeve Type: Arm Sleeves
+Style: Casual
+Type: Tank
+Occasion: Daily
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Festivals: Back-to-School
+Color: Black
+Length: Regular
+Fit Type: Slim Fit
+Fabric Elasticity: Medium Stretch
+Material: Fabric
+Composition: 95% Viscose, 5% Elastane
+Care Instructions: Machine wash, do not dry clean
+Sheer: No",2026-06-12T17:17:30+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\43400974.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\43400974_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\43400974_description_raw_text.txt,fast,28.87,0.01,0.07,29.05,16.15,5.06,1,False,0.00,False,0.00,0,0,20,True
+51551965,https://sg.shein.com/Sweetra-Women-s-Solid-Color-Wide-Strap-Casual-Slim-Fit-Tank-Top-p-51551965.html,https://sg.shein.com/Sweetra-Women-s-Solid-Color-Wide-Strap-Casual-Slim-Fit-Tank-Top-p-51551965.html,7,2,"7,8",17.5k+ sold,TRUE,Sweetra Women's Solid Color Wide Strap Casual Slim Fit Tank Top,S$17.99,sz2412134584857884,2024-12-13,241213,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Multicolor,Knitted Fabric,"95% Polyester,5% Elastane",Medium Stretch,Slim Fit,,Casual,"Home, Daily",Ruched,Tank,,Straps,,,,,,No,,Regular,No,,Semi-Sheer,,Oktoberfest in Munich,20,"Details,Tank Tops & Camis Body,Neckline,Style,Type,Occasion,Hem Shaped,Lined For Added Warmth,Pockets,Festivals,Color,Tank Tops & Camis Length,Fit Type,Fabric Elasticity,Tank Tops & Camis Material,Tank Tops & Camis Composition,Care Instructions,Sheer,Material,Composition","{""Details"": ""Ruched"", ""Tank Tops & Camis Body"": ""Unlined"", ""Neckline"": ""Straps"", ""Style"": ""Casual"", ""Type"": ""Tank"", ""Occasion"": ""Home, Daily"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Pockets"": ""No"", ""Festivals"": ""Oktoberfest in Munich"", ""Color"": ""Multicolor"", ""Tank Tops & Camis Length"": ""Crop"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""Medium Stretch"", ""Tank Tops & Camis Material"": ""Knitted Fabric"", ""Tank Tops & Camis Composition"": ""95% Polyester,5% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""Semi-Sheer"", ""Material"": ""Knitted Fabric"", ""Composition"": ""95% Polyester,5% Elastane""}","Details: Ruched
+Tank Tops & Camis Body: Unlined
+Neckline: Straps
+Style: Casual
+Type: Tank
+Occasion: Home, Daily
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Pockets: No
+Festivals: Oktoberfest in Munich
+Color: Multicolor
+Tank Tops & Camis Length: Crop
+Fit Type: Slim Fit
+Fabric Elasticity: Medium Stretch
+Tank Tops & Camis Material: Knitted Fabric
+Tank Tops & Camis Composition: 95% Polyester,5% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: Semi-Sheer
+Material: Knitted Fabric
+Composition: 95% Polyester,5% Elastane",2026-06-12T17:18:04+08:00,success,Description 追加等待后属性加载成功,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\51551965.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\51551965_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\51551965_description_raw_text.txt,fast,89.78,0.00,6.43,96.23,0.00,8.89,1,False,0.00,False,0.00,0,0,20,True
+448923269,https://sg.shein.com/Comfortcana-Women-s-3pcs-Summer-Cute-Pink-Check-Shorts-Set-Drawstring-Waist-Pleated-Plaid-Casual-Outfit-For-Girls-Versatile-Beach-Picnic-Vacation-Wear-Y2k-Style-p-448923269.html,https://sg.shein.com/Comfortcana-Women-s-3pcs-Summer-Cute-Pink-Check-Shorts-Set-Drawstring-Waist-Pleated-Plaid-Casual-Outfit-For-Girls-Versatile-Beach-Picnic-Vacation-Wear-Y2k-Style-p-448923269.html,9,2,"9,10",16.4k+ sold,TRUE,"Comfortcana Women's 3pcs Summer Cute Pink Check Shorts Set,Drawstring Waist Pleated Plaid Casual Outfit For Girls,Versatile Beach Picnic Vacation Wear,Y2k Style",S$16.19,sz260307142098390880032,2026-03-07,260307,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Multicolor,Woven Fabric,"50% Cotton,50% Polyester",Non-Stretch,Loose,Geometric,Casual,Home,"Drawstring, Knot",Wide Leg,,,,,Low Waist,Elastic Waist,,No,,,,,Semi-Sheer,,"Back-to-School, Easter",20,"Closure Type,Details,Pants Body,Pattern Type,Style,Occasion,Pockets,Festivals,Color,Type,Waist Line,Pants Length,Fit Type,Fabric Elasticity,Pants Material,Pants Composition,Care Instructions,Sheer,Material,Composition","{""Closure Type"": ""Elastic Waist"", ""Details"": ""Drawstring, Knot"", ""Pants Body"": ""Unlined"", ""Pattern Type"": ""Geometric"", ""Style"": ""Casual"", ""Occasion"": ""Home"", ""Pockets"": ""No"", ""Festivals"": ""Back-to-School, Easter"", ""Color"": ""Multicolor"", ""Type"": ""Wide Leg"", ""Waist Line"": ""Low Waist"", ""Pants Length"": ""Mini Shorts"", ""Fit Type"": ""Loose"", ""Fabric Elasticity"": ""Non-Stretch"", ""Pants Material"": ""Woven Fabric"", ""Pants Composition"": ""50% Cotton,50% Polyester"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""Semi-Sheer"", ""Material"": ""Woven Fabric"", ""Composition"": ""50% Cotton,50% Polyester""}","Closure Type: Elastic Waist
+Details: Drawstring, Knot
+Pants Body: Unlined
+Pattern Type: Geometric
+Style: Casual
+Occasion: Home
+Pockets: No
+Festivals: Back-to-School, Easter
+Color: Multicolor
+Type: Wide Leg
+Waist Line: Low Waist
+Pants Length: Mini Shorts
+Fit Type: Loose
+Fabric Elasticity: Non-Stretch
+Pants Material: Woven Fabric
+Pants Composition: 50% Cotton,50% Polyester
+Care Instructions: Machine wash or professional dry clean
+Sheer: Semi-Sheer
+Material: Woven Fabric
+Composition: 50% Cotton,50% Polyester",2026-06-12T17:19:49+08:00,success,商品主体信息命中 7 项,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\448923269.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\448923269_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\448923269_description_raw_text.txt,fast,27.61,0.01,0.07,27.78,14.66,6.30,1,False,0.00,False,0.00,0,0,20,True
+39283446,https://sg.shein.com/Qadelle-Women-s-Plain-Strap-Simple-Camisole-Casual-Daily-Wear-p-39283446.html,https://sg.shein.com/Qadelle-Women-s-Plain-Strap-Simple-Camisole-Casual-Daily-Wear-p-39283446.html,7,2,"7,8",16.2k+ sold,TRUE,"GlowEve Women's Plain Strap Simple Camisole, Casual Daily Wear",S$20.24,sz2406276581715716,2024-06-27,240627,success,SKU 前 6 位数字按 YYMMDD 成功解析为产品创建日期,Multicolor,Knitted Fabric,"95.8% Viscose, 4.2% Elastane",Medium Stretch,Slim Fit,,Casual,Beach,,Cami,Regular,Spaghetti Strap,,,,,,,Unlined,Regular,No,,No,,Back-to-School,17,"Body,Neckline,Style,Type,Occasion,Hem Shaped,Lined For Added Warmth,Festivals,Color,Length,Fit Type,Fabric Elasticity,Material,Composition,Care Instructions,Sheer,Fabric quality features","{""Body"": ""Unlined"", ""Neckline"": ""Spaghetti Strap"", ""Style"": ""Casual"", ""Type"": ""Cami"", ""Occasion"": ""Beach"", ""Hem Shaped"": ""Regular"", ""Lined For Added Warmth"": ""No"", ""Festivals"": ""Back-to-School"", ""Color"": ""Multicolor"", ""Length"": ""Regular"", ""Fit Type"": ""Slim Fit"", ""Fabric Elasticity"": ""Medium Stretch"", ""Material"": ""Knitted Fabric"", ""Composition"": ""95.8% Viscose, 4.2% Elastane"", ""Care Instructions"": ""Machine wash or professional dry clean"", ""Sheer"": ""No"", ""Fabric quality features"": ""Dimensional Stability""}","Body: Unlined
+Neckline: Spaghetti Strap
+Style: Casual
+Type: Cami
+Occasion: Beach
+Hem Shaped: Regular
+Lined For Added Warmth: No
+Festivals: Back-to-School
+Color: Multicolor
+Length: Regular
+Fit Type: Slim Fit
+Fabric Elasticity: Medium Stretch
+Material: Knitted Fabric
+Composition: 95.8% Viscose, 4.2% Elastane
+Care Instructions: Machine wash or professional dry clean
+Sheer: No
+Fabric quality features: Dimensional Stability",2026-06-12T17:20:23+08:00,success,商品属性已加载，虽达到 fast 硬截止但保留成功结果,success,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\39283446.html,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\39283446_visible_text.txt,D:\V2\data\debug\v2_9d1c_detail_checkpoint_clean_urls\39283446_description_raw_text.txt,fast,30.14,0.00,0.05,30.27,14.35,7.72,1,False,0.00,False,0.00,0,0,20,True

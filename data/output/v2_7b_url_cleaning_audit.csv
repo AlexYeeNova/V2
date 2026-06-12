@@ -1,0 +1,2 @@
+﻿total_raw_rows,total_merged_rows,duplicate_removed_count,duplicate_rate,urls_with_query,urls_cleaned,urls_with_src_module,urls_with_src_identifier,urls_with_src_tab_page_id,urls_with_risk_marker,product_id_mismatch_count,clean_url_duplicate_count,real_sold_rows,real_sold_urls_with_risk_marker
+1118,970,148,13.24%,970,970,15,15,15,15,0,0,648,13
